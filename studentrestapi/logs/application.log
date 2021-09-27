@@ -1,0 +1,801 @@
+2021-09-13 12:11:52.628  INFO 27328 --- [main] c.m.s.StudentRestControllerMvctest       : Starting StudentRestControllerMvctest using Java 11.0.11 on LHTU05CD9305NSZ with PID 27328 (started by m65 in C:\springPractice\studentrestapi)
+2021-09-13 12:11:52.646  INFO 27328 --- [main] c.m.s.StudentRestControllerMvctest       : No active profile set, falling back to default profiles: default
+2021-09-13 12:11:55.457  INFO 27328 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2021-09-13 12:11:55.458  INFO 27328 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2021-09-13 12:11:55.472  INFO 27328 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+2021-09-13 12:11:55.510  INFO 27328 --- [main] c.m.s.StudentRestControllerMvctest       : Started StudentRestControllerMvctest in 3.66 seconds (JVM running for 5.289)
+2021-09-13 12:21:19.054  INFO 24268 --- [main] c.m.s.StudentRestControllerMvctest       : Starting StudentRestControllerMvctest using Java 11.0.11 on LHTU05CD9305NSZ with PID 24268 (started by m65 in C:\springPractice\studentrestapi)
+2021-09-13 12:21:19.057  INFO 24268 --- [main] c.m.s.StudentRestControllerMvctest       : No active profile set, falling back to default profiles: default
+2021-09-13 12:21:21.200  INFO 24268 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2021-09-13 12:21:21.200  INFO 24268 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2021-09-13 12:21:21.203  INFO 24268 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 2 ms
+2021-09-13 12:21:21.253  INFO 24268 --- [main] c.m.s.StudentRestControllerMvctest       : Started StudentRestControllerMvctest in 2.747 seconds (JVM running for 4.177)
+2021-09-13 12:34:05.157  INFO 17044 --- [main] c.m.s.StudentRestControllerMvctest       : Starting StudentRestControllerMvctest using Java 11.0.11 on LHTU05CD9305NSZ with PID 17044 (started by m65 in C:\springPractice\studentrestapi)
+2021-09-13 12:34:05.163  INFO 17044 --- [main] c.m.s.StudentRestControllerMvctest       : No active profile set, falling back to default profiles: default
+2021-09-13 12:34:07.797  INFO 17044 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2021-09-13 12:34:07.797  INFO 17044 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2021-09-13 12:34:07.800  INFO 17044 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 3 ms
+2021-09-13 12:34:07.852  INFO 17044 --- [main] c.m.s.StudentRestControllerMvctest       : Started StudentRestControllerMvctest in 3.4 seconds (JVM running for 4.95)
+2021-09-13 15:22:29.254  INFO 5132 --- [restartedMain] c.m.s.StudentrestapiApplication          : Starting StudentrestapiApplication using Java 11.0.11 on LHTU05CD9305NSZ with PID 5132 (C:\springPractice\studentrestapi\target\classes started by m65 in C:\springPractice\studentrestapi)
+2021-09-13 15:22:29.258  INFO 5132 --- [restartedMain] c.m.s.StudentrestapiApplication          : No active profile set, falling back to default profiles: default
+2021-09-13 15:22:29.322  INFO 5132 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-09-13 15:22:29.322  INFO 5132 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-09-13 15:22:31.069  INFO 5132 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-09-13 15:22:31.141  INFO 5132 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 59 ms. Found 1 JPA repository interfaces.
+2021-09-13 15:22:31.733  INFO 5132 --- [restartedMain] org.eclipse.jetty.util.log               : Logging initialized @4612ms to org.eclipse.jetty.util.log.Slf4jLog
+2021-09-13 15:22:32.090  INFO 5132 --- [restartedMain] o.s.b.w.e.j.JettyServletWebServerFactory : Server initialized with port: 8080
+2021-09-13 15:22:32.096  INFO 5132 --- [restartedMain] org.eclipse.jetty.server.Server          : jetty-9.4.43.v20210629; built: 2021-06-30T11:07:22.254Z; git: 526006ecfa3af7f1a27ef3a288e2bef7ea9dd7e8; jvm 11.0.11+9
+2021-09-13 15:22:32.141  INFO 5132 --- [restartedMain] o.e.j.s.h.ContextHandler.application     : Initializing Spring embedded WebApplicationContext
+2021-09-13 15:22:32.141  INFO 5132 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2818 ms
+2021-09-13 15:22:32.327  INFO 5132 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2021-09-13 15:22:32.696  INFO 5132 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2021-09-13 15:22:32.703  INFO 5132 --- [restartedMain] o.s.b.a.h2.H2ConsoleAutoConfiguration    : H2 console available at '/h2-console'. Database available at 'jdbc:mysql://localhost:3306/myStudentDb'
+2021-09-13 15:22:32.837  INFO 5132 --- [restartedMain] org.eclipse.jetty.server.session         : DefaultSessionIdManager workerName=node0
+2021-09-13 15:22:32.837  INFO 5132 --- [restartedMain] org.eclipse.jetty.server.session         : No SessionScavenger set, using defaults
+2021-09-13 15:22:32.839  INFO 5132 --- [restartedMain] org.eclipse.jetty.server.session         : node0 Scavenging every 660000ms
+2021-09-13 15:22:32.854  INFO 5132 --- [restartedMain] o.e.jetty.server.handler.ContextHandler  : Started o.s.b.w.e.j.JettyEmbeddedWebAppContext@5230234d{application,/studentapi,[file:///C:/Users/m65/AppData/Local/Temp/jetty-docbase.8080.2607467563529660996/],AVAILABLE}
+2021-09-13 15:22:32.854  INFO 5132 --- [restartedMain] org.eclipse.jetty.server.Server          : Started @5735ms
+2021-09-13 15:22:32.939  WARN 5132 --- [restartedMain] c.h.i.impl.HazelcastInstanceFactory      : Hazelcast is starting in a Java modular environment (Java 9 and newer) but without proper access to required Java packages. Use additional Java arguments to provide Hazelcast access to Java internal API. The internal API access is used to get the best performance results. Arguments to be used:
+ --add-modules java.se --add-exports java.base/jdk.internal.ref=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/java.nio=ALL-UNNAMED --add-opens java.base/sun.nio.ch=ALL-UNNAMED --add-opens java.management/sun.management=ALL-UNNAMED --add-opens jdk.management/com.sun.management.internal=ALL-UNNAMED
+2021-09-13 15:22:33.480  INFO 5132 --- [restartedMain] com.hazelcast.system                     : [192.168.0.113]:5701 [dev] [4.1.5] Hazelcast 4.1.5 (20210817 - 270c5be) starting at [192.168.0.113]:5701
+2021-09-13 15:22:33.885  INFO 5132 --- [restartedMain] c.h.s.d.integration.DiscoveryService     : [192.168.0.113]:5701 [dev] [4.1.5] No discovery strategy is applicable for auto-detection
+2021-09-13 15:22:34.791  INFO 5132 --- [restartedMain] com.hazelcast.instance.impl.Node         : [192.168.0.113]:5701 [dev] [4.1.5] Using Multicast discovery
+2021-09-13 15:22:34.794  WARN 5132 --- [restartedMain] com.hazelcast.cp.CPSubsystem             : [192.168.0.113]:5701 [dev] [4.1.5] CP Subsystem is not enabled. CP data structures will operate in UNSAFE mode! Please note that UNSAFE mode will not provide strong consistency guarantees.
+2021-09-13 15:22:35.008  INFO 5132 --- [restartedMain] c.h.internal.diagnostics.Diagnostics     : [192.168.0.113]:5701 [dev] [4.1.5] Diagnostics disabled. To enable add -Dhazelcast.diagnostics.enabled=true to the JVM arguments.
+2021-09-13 15:22:35.019  INFO 5132 --- [restartedMain] com.hazelcast.core.LifecycleService      : [192.168.0.113]:5701 [dev] [4.1.5] [192.168.0.113]:5701 is STARTING
+2021-09-13 15:22:37.552  INFO 5132 --- [restartedMain] c.h.internal.cluster.ClusterService      : [192.168.0.113]:5701 [dev] [4.1.5] 
+
+Members {size:1, ver:1} [
+	Member [192.168.0.113]:5701 - c1caa48b-c5d6-4e49-9d24-eb4259fb3585 this
+]
+
+2021-09-13 15:22:37.564  INFO 5132 --- [restartedMain] com.hazelcast.core.LifecycleService      : [192.168.0.113]:5701 [dev] [4.1.5] [192.168.0.113]:5701 is STARTED
+2021-09-13 15:22:37.778  INFO 5132 --- [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-09-13 15:22:37.873  INFO 5132 --- [restartedMain] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.4.32.Final
+2021-09-13 15:22:38.013  INFO 5132 --- [restartedMain] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-09-13 15:22:38.150  INFO 5132 --- [restartedMain] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2021-09-13 15:22:38.654  INFO 5132 --- [restartedMain] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-09-13 15:22:38.664  INFO 5132 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-09-13 15:22:39.218  WARN 5132 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-09-13 15:22:39.455  INFO 5132 --- [restartedMain] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 14 endpoint(s) beneath base path '/actuator'
+2021-09-13 15:22:39.679  INFO 5132 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-09-13 15:22:39.969  INFO 5132 --- [restartedMain] o.e.j.s.h.ContextHandler.application     : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-09-13 15:22:39.970  INFO 5132 --- [restartedMain] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-09-13 15:22:39.972  INFO 5132 --- [restartedMain] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2021-09-13 15:22:39.993  INFO 5132 --- [restartedMain] o.e.jetty.server.AbstractConnector       : Started ServerConnector@3069d863{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+2021-09-13 15:22:39.994  INFO 5132 --- [restartedMain] o.s.b.web.embedded.jetty.JettyWebServer  : Jetty started on port(s) 8080 (http/1.1) with context path '/studentapi'
+2021-09-13 15:22:40.419  INFO 5132 --- [restartedMain] c.m.s.StudentrestapiApplication          : Started StudentrestapiApplication in 11.726 seconds (JVM running for 13.3)
+2021-09-13 15:37:27.381  INFO 5132 --- [Thread-13] o.e.jetty.server.AbstractConnector       : Stopped ServerConnector@3069d863{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+2021-09-13 15:37:27.383  INFO 5132 --- [Thread-13] org.eclipse.jetty.server.session         : node0 Stopped scavenging
+2021-09-13 15:37:27.389  INFO 5132 --- [Thread-13] o.e.j.s.h.ContextHandler.application     : Destroying Spring FrameworkServlet 'dispatcherServlet'
+2021-09-13 15:37:27.390  INFO 5132 --- [Thread-13] o.e.jetty.server.handler.ContextHandler  : Stopped o.s.b.w.e.j.JettyEmbeddedWebAppContext@5230234d{application,/studentapi,[file:///C:/Users/m65/AppData/Local/Temp/jetty-docbase.8080.2607467563529660996/],STOPPED}
+2021-09-13 15:37:27.401  INFO 5132 --- [Thread-13] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-09-13 15:37:27.440  INFO 5132 --- [Thread-13] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2021-09-13 15:37:27.478  INFO 5132 --- [Thread-13] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2021-09-13 15:37:27.612  INFO 5132 --- [restartedMain] c.m.s.StudentrestapiApplication          : Starting StudentrestapiApplication using Java 11.0.11 on LHTU05CD9305NSZ with PID 5132 (C:\springPractice\studentrestapi\target\classes started by m65 in C:\springPractice\studentrestapi)
+2021-09-13 15:37:27.612  INFO 5132 --- [restartedMain] c.m.s.StudentrestapiApplication          : No active profile set, falling back to default profiles: default
+2021-09-13 15:37:28.172  INFO 5132 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-09-13 15:37:28.184  INFO 5132 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 11 ms. Found 1 JPA repository interfaces.
+2021-09-13 15:37:28.359  INFO 5132 --- [restartedMain] o.s.b.w.e.j.JettyServletWebServerFactory : Server initialized with port: 8080
+2021-09-13 15:37:28.359  INFO 5132 --- [restartedMain] org.eclipse.jetty.server.Server          : jetty-9.4.43.v20210629; built: 2021-06-30T11:07:22.254Z; git: 526006ecfa3af7f1a27ef3a288e2bef7ea9dd7e8; jvm 11.0.11+9
+2021-09-13 15:37:28.362  INFO 5132 --- [restartedMain] o.e.j.s.h.ContextHandler.application     : Initializing Spring embedded WebApplicationContext
+2021-09-13 15:37:28.363  INFO 5132 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 748 ms
+2021-09-13 15:37:28.401  INFO 5132 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Starting...
+2021-09-13 15:37:28.433  INFO 5132 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Start completed.
+2021-09-13 15:37:28.433  INFO 5132 --- [restartedMain] o.s.b.a.h2.H2ConsoleAutoConfiguration    : H2 console available at '/h2-console'. Database available at 'jdbc:mysql://localhost:3306/myStudentDb'
+2021-09-13 15:37:28.465  INFO 5132 --- [restartedMain] org.eclipse.jetty.server.session         : DefaultSessionIdManager workerName=node0
+2021-09-13 15:37:28.465  INFO 5132 --- [restartedMain] org.eclipse.jetty.server.session         : No SessionScavenger set, using defaults
+2021-09-13 15:37:28.465  INFO 5132 --- [restartedMain] org.eclipse.jetty.server.session         : node0 Scavenging every 600000ms
+2021-09-13 15:37:28.467  INFO 5132 --- [restartedMain] o.e.jetty.server.handler.ContextHandler  : Started o.s.b.w.e.j.JettyEmbeddedWebAppContext@5af3b7c4{application,/studentapi,[file:///C:/Users/m65/AppData/Local/Temp/jetty-docbase.8080.14328958830824676200/],AVAILABLE}
+2021-09-13 15:37:28.467  INFO 5132 --- [restartedMain] org.eclipse.jetty.server.Server          : Started @901360ms
+2021-09-13 15:37:28.880  INFO 5132 --- [restartedMain] com.hazelcast.system                     : [192.168.0.113]:5701 [dev] [4.1.5] Hazelcast 4.1.5 (20210817 - 270c5be) starting at [192.168.0.113]:5701
+2021-09-13 15:37:28.893  INFO 5132 --- [restartedMain] c.h.s.d.integration.DiscoveryService     : [192.168.0.113]:5701 [dev] [4.1.5] No discovery strategy is applicable for auto-detection
+2021-09-13 15:37:29.481  INFO 5132 --- [restartedMain] com.hazelcast.instance.impl.Node         : [192.168.0.113]:5701 [dev] [4.1.5] Using Multicast discovery
+2021-09-13 15:37:29.482  WARN 5132 --- [restartedMain] com.hazelcast.cp.CPSubsystem             : [192.168.0.113]:5701 [dev] [4.1.5] CP Subsystem is not enabled. CP data structures will operate in UNSAFE mode! Please note that UNSAFE mode will not provide strong consistency guarantees.
+2021-09-13 15:37:29.497  INFO 5132 --- [restartedMain] c.h.internal.diagnostics.Diagnostics     : [192.168.0.113]:5701 [dev] [4.1.5] Diagnostics disabled. To enable add -Dhazelcast.diagnostics.enabled=true to the JVM arguments.
+2021-09-13 15:37:29.497  INFO 5132 --- [restartedMain] com.hazelcast.core.LifecycleService      : [192.168.0.113]:5701 [dev] [4.1.5] [192.168.0.113]:5701 is STARTING
+2021-09-13 15:37:32.015  INFO 5132 --- [restartedMain] c.h.internal.cluster.ClusterService      : [192.168.0.113]:5701 [dev] [4.1.5] 
+
+Members {size:1, ver:1} [
+	Member [192.168.0.113]:5701 - dce8a153-277e-47ee-a154-4dd1770ed268 this
+]
+
+2021-09-13 15:37:32.016  INFO 5132 --- [restartedMain] com.hazelcast.core.LifecycleService      : [192.168.0.113]:5701 [dev] [4.1.5] [192.168.0.113]:5701 is STARTED
+2021-09-13 15:37:32.039  INFO 5132 --- [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-09-13 15:37:32.047  INFO 5132 --- [restartedMain] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2021-09-13 15:37:32.066  INFO 5132 --- [restartedMain] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-09-13 15:37:32.067  INFO 5132 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-09-13 15:37:32.249  WARN 5132 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-09-13 15:37:32.366  INFO 5132 --- [restartedMain] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 14 endpoint(s) beneath base path '/actuator'
+2021-09-13 15:37:32.442  INFO 5132 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-09-13 15:37:32.567  INFO 5132 --- [restartedMain] o.e.j.s.h.ContextHandler.application     : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-09-13 15:37:32.567  INFO 5132 --- [restartedMain] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-09-13 15:37:32.568  INFO 5132 --- [restartedMain] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2021-09-13 15:37:32.580  INFO 5132 --- [restartedMain] o.e.jetty.server.AbstractConnector       : Started ServerConnector@fe27dbf{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+2021-09-13 15:37:32.580  INFO 5132 --- [restartedMain] o.s.b.web.embedded.jetty.JettyWebServer  : Jetty started on port(s) 8080 (http/1.1) with context path '/studentapi'
+2021-09-13 15:37:32.697  INFO 5132 --- [restartedMain] c.m.s.StudentrestapiApplication          : Started StudentrestapiApplication in 5.121 seconds (JVM running for 905.591)
+2021-09-13 15:37:32.700  INFO 5132 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2021-09-13 15:37:39.203  INFO 5132 --- [RMI TCP Connection(6)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2021-09-13 15:37:39.210  INFO 5132 --- [RMI TCP Connection(6)-127.0.0.1] o.e.jetty.server.AbstractConnector       : Stopped ServerConnector@fe27dbf{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+2021-09-13 15:37:39.211  INFO 5132 --- [RMI TCP Connection(6)-127.0.0.1] org.eclipse.jetty.server.session         : node0 Stopped scavenging
+2021-09-13 15:37:39.213  INFO 5132 --- [RMI TCP Connection(6)-127.0.0.1] o.e.j.s.h.ContextHandler.application     : Destroying Spring FrameworkServlet 'dispatcherServlet'
+2021-09-13 15:37:39.213  INFO 5132 --- [RMI TCP Connection(6)-127.0.0.1] o.e.jetty.server.handler.ContextHandler  : Stopped o.s.b.w.e.j.JettyEmbeddedWebAppContext@5af3b7c4{application,/studentapi,[file:///C:/Users/m65/AppData/Local/Temp/jetty-docbase.8080.14328958830824676200/],STOPPED}
+2021-09-13 15:37:39.218  INFO 5132 --- [RMI TCP Connection(6)-127.0.0.1] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-09-13 15:37:39.235  INFO 5132 --- [RMI TCP Connection(6)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Shutdown initiated...
+2021-09-13 15:37:39.265  INFO 5132 --- [RMI TCP Connection(6)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Shutdown completed.
+2021-09-13 15:38:32.364  INFO 17052 --- [restartedMain] c.m.s.StudentrestapiApplication          : Starting StudentrestapiApplication using Java 11.0.11 on LHTU05CD9305NSZ with PID 17052 (C:\springPractice\studentrestapi\target\classes started by m65 in C:\springPractice\studentrestapi)
+2021-09-13 15:38:32.367  INFO 17052 --- [restartedMain] c.m.s.StudentrestapiApplication          : No active profile set, falling back to default profiles: default
+2021-09-13 15:38:32.433  INFO 17052 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-09-13 15:38:32.433  INFO 17052 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-09-13 15:38:33.939  INFO 17052 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-09-13 15:38:34.003  INFO 17052 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 54 ms. Found 1 JPA repository interfaces.
+2021-09-13 15:38:34.458  INFO 17052 --- [restartedMain] org.eclipse.jetty.util.log               : Logging initialized @3974ms to org.eclipse.jetty.util.log.Slf4jLog
+2021-09-13 15:38:34.776  INFO 17052 --- [restartedMain] o.s.b.w.e.j.JettyServletWebServerFactory : Server initialized with port: 8080
+2021-09-13 15:38:34.778  INFO 17052 --- [restartedMain] org.eclipse.jetty.server.Server          : jetty-9.4.43.v20210629; built: 2021-06-30T11:07:22.254Z; git: 526006ecfa3af7f1a27ef3a288e2bef7ea9dd7e8; jvm 11.0.11+9
+2021-09-13 15:38:34.805  INFO 17052 --- [restartedMain] o.e.j.s.h.ContextHandler.application     : Initializing Spring embedded WebApplicationContext
+2021-09-13 15:38:34.805  INFO 17052 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2371 ms
+2021-09-13 15:38:34.929  INFO 17052 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2021-09-13 15:38:35.222  INFO 17052 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2021-09-13 15:38:35.228  INFO 17052 --- [restartedMain] o.s.b.a.h2.H2ConsoleAutoConfiguration    : H2 console available at '/h2-console'. Database available at 'jdbc:mysql://localhost:3306/myStudentDb'
+2021-09-13 15:38:35.352  INFO 17052 --- [restartedMain] org.eclipse.jetty.server.session         : DefaultSessionIdManager workerName=node0
+2021-09-13 15:38:35.353  INFO 17052 --- [restartedMain] org.eclipse.jetty.server.session         : No SessionScavenger set, using defaults
+2021-09-13 15:38:35.355  INFO 17052 --- [restartedMain] org.eclipse.jetty.server.session         : node0 Scavenging every 660000ms
+2021-09-13 15:38:35.370  INFO 17052 --- [restartedMain] o.e.jetty.server.handler.ContextHandler  : Started o.s.b.w.e.j.JettyEmbeddedWebAppContext@1b5bab42{application,/studentapi,[file:///C:/Users/m65/AppData/Local/Temp/jetty-docbase.8080.15671220181519461581/, jar:file:/C:/Users/m65/.m2/repository/io/springfox/springfox-swagger-ui/3.0.0/springfox-swagger-ui-3.0.0.jar!/META-INF/resources],AVAILABLE}
+2021-09-13 15:38:35.371  INFO 17052 --- [restartedMain] org.eclipse.jetty.server.Server          : Started @4888ms
+2021-09-13 15:38:35.445  WARN 17052 --- [restartedMain] c.h.i.impl.HazelcastInstanceFactory      : Hazelcast is starting in a Java modular environment (Java 9 and newer) but without proper access to required Java packages. Use additional Java arguments to provide Hazelcast access to Java internal API. The internal API access is used to get the best performance results. Arguments to be used:
+ --add-modules java.se --add-exports java.base/jdk.internal.ref=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/java.nio=ALL-UNNAMED --add-opens java.base/sun.nio.ch=ALL-UNNAMED --add-opens java.management/sun.management=ALL-UNNAMED --add-opens jdk.management/com.sun.management.internal=ALL-UNNAMED
+2021-09-13 15:38:35.962  INFO 17052 --- [restartedMain] com.hazelcast.system                     : [192.168.0.113]:5701 [dev] [4.1.5] Hazelcast 4.1.5 (20210817 - 270c5be) starting at [192.168.0.113]:5701
+2021-09-13 15:38:36.311  INFO 17052 --- [restartedMain] c.h.s.d.integration.DiscoveryService     : [192.168.0.113]:5701 [dev] [4.1.5] No discovery strategy is applicable for auto-detection
+2021-09-13 15:38:37.306  INFO 17052 --- [restartedMain] com.hazelcast.instance.impl.Node         : [192.168.0.113]:5701 [dev] [4.1.5] Using Multicast discovery
+2021-09-13 15:38:37.310  WARN 17052 --- [restartedMain] com.hazelcast.cp.CPSubsystem             : [192.168.0.113]:5701 [dev] [4.1.5] CP Subsystem is not enabled. CP data structures will operate in UNSAFE mode! Please note that UNSAFE mode will not provide strong consistency guarantees.
+2021-09-13 15:38:37.526  INFO 17052 --- [restartedMain] c.h.internal.diagnostics.Diagnostics     : [192.168.0.113]:5701 [dev] [4.1.5] Diagnostics disabled. To enable add -Dhazelcast.diagnostics.enabled=true to the JVM arguments.
+2021-09-13 15:38:37.537  INFO 17052 --- [restartedMain] com.hazelcast.core.LifecycleService      : [192.168.0.113]:5701 [dev] [4.1.5] [192.168.0.113]:5701 is STARTING
+2021-09-13 15:38:40.068  INFO 17052 --- [restartedMain] c.h.internal.cluster.ClusterService      : [192.168.0.113]:5701 [dev] [4.1.5] 
+
+Members {size:1, ver:1} [
+	Member [192.168.0.113]:5701 - 0c6e92b3-6b92-4503-9929-ea4f94400c1b this
+]
+
+2021-09-13 15:38:40.081  INFO 17052 --- [restartedMain] com.hazelcast.core.LifecycleService      : [192.168.0.113]:5701 [dev] [4.1.5] [192.168.0.113]:5701 is STARTED
+2021-09-13 15:38:40.216  INFO 17052 --- [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-09-13 15:38:40.296  INFO 17052 --- [restartedMain] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.4.32.Final
+2021-09-13 15:38:40.416  INFO 17052 --- [restartedMain] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-09-13 15:38:40.512  INFO 17052 --- [restartedMain] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2021-09-13 15:38:40.936  INFO 17052 --- [restartedMain] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-09-13 15:38:40.945  INFO 17052 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-09-13 15:38:41.401  WARN 17052 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-09-13 15:38:41.609  INFO 17052 --- [restartedMain] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 14 endpoint(s) beneath base path '/actuator'
+2021-09-13 15:38:41.779  INFO 17052 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-09-13 15:38:42.015  INFO 17052 --- [restartedMain] o.e.j.s.h.ContextHandler.application     : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-09-13 15:38:42.016  INFO 17052 --- [restartedMain] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-09-13 15:38:42.018  INFO 17052 --- [restartedMain] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2021-09-13 15:38:42.035  INFO 17052 --- [restartedMain] o.e.jetty.server.AbstractConnector       : Started ServerConnector@40388cb1{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+2021-09-13 15:38:42.036  INFO 17052 --- [restartedMain] o.s.b.web.embedded.jetty.JettyWebServer  : Jetty started on port(s) 8080 (http/1.1) with context path '/studentapi'
+2021-09-13 15:38:42.361  INFO 17052 --- [restartedMain] c.m.s.StudentrestapiApplication          : Started StudentrestapiApplication in 10.475 seconds (JVM running for 11.878)
+2021-09-13 15:42:15.264  INFO 17052 --- [Thread-13] o.e.jetty.server.AbstractConnector       : Stopped ServerConnector@40388cb1{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+2021-09-13 15:42:15.265  INFO 17052 --- [Thread-13] org.eclipse.jetty.server.session         : node0 Stopped scavenging
+2021-09-13 15:42:15.268  INFO 17052 --- [Thread-13] o.e.j.s.h.ContextHandler.application     : Destroying Spring FrameworkServlet 'dispatcherServlet'
+2021-09-13 15:42:15.269  INFO 17052 --- [Thread-13] o.e.jetty.server.handler.ContextHandler  : Stopped o.s.b.w.e.j.JettyEmbeddedWebAppContext@1b5bab42{application,/studentapi,[file:///C:/Users/m65/AppData/Local/Temp/jetty-docbase.8080.15671220181519461581/, jar:file:/C:/Users/m65/.m2/repository/io/springfox/springfox-swagger-ui/3.0.0/springfox-swagger-ui-3.0.0.jar!/META-INF/resources],STOPPED}
+2021-09-13 15:42:15.280  INFO 17052 --- [Thread-13] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-09-13 15:42:15.326  INFO 17052 --- [Thread-13] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2021-09-13 15:42:15.356  INFO 17052 --- [Thread-13] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2021-09-13 15:42:22.321  INFO 17052 --- [restartedMain] c.m.s.StudentrestapiApplication          : Starting StudentrestapiApplication using Java 11.0.11 on LHTU05CD9305NSZ with PID 17052 (C:\springPractice\studentrestapi\target\classes started by m65 in C:\springPractice\studentrestapi)
+2021-09-13 15:42:22.322  INFO 17052 --- [restartedMain] c.m.s.StudentrestapiApplication          : No active profile set, falling back to default profiles: default
+2021-09-13 15:42:22.898  INFO 17052 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-09-13 15:42:22.919  INFO 17052 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 20 ms. Found 1 JPA repository interfaces.
+2021-09-13 15:42:23.128  INFO 17052 --- [restartedMain] o.s.b.w.e.j.JettyServletWebServerFactory : Server initialized with port: 8080
+2021-09-13 15:42:23.129  INFO 17052 --- [restartedMain] org.eclipse.jetty.server.Server          : jetty-9.4.43.v20210629; built: 2021-06-30T11:07:22.254Z; git: 526006ecfa3af7f1a27ef3a288e2bef7ea9dd7e8; jvm 11.0.11+9
+2021-09-13 15:42:23.131  INFO 17052 --- [restartedMain] o.e.j.s.h.ContextHandler.application     : Initializing Spring embedded WebApplicationContext
+2021-09-13 15:42:23.131  INFO 17052 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 806 ms
+2021-09-13 15:42:23.164  INFO 17052 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-3 - Starting...
+2021-09-13 15:42:23.190  INFO 17052 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-3 - Start completed.
+2021-09-13 15:42:23.190  INFO 17052 --- [restartedMain] o.s.b.a.h2.H2ConsoleAutoConfiguration    : H2 console available at '/h2-console'. Database available at 'jdbc:mysql://localhost:3306/myStudentDb'
+2021-09-13 15:42:23.218  INFO 17052 --- [restartedMain] org.eclipse.jetty.server.session         : DefaultSessionIdManager workerName=node0
+2021-09-13 15:42:23.219  INFO 17052 --- [restartedMain] org.eclipse.jetty.server.session         : No SessionScavenger set, using defaults
+2021-09-13 15:42:23.219  INFO 17052 --- [restartedMain] org.eclipse.jetty.server.session         : node0 Scavenging every 600000ms
+2021-09-13 15:42:23.220  INFO 17052 --- [restartedMain] o.e.jetty.server.handler.ContextHandler  : Started o.s.b.w.e.j.JettyEmbeddedWebAppContext@3135114b{application,/studentapi,[file:///C:/Users/m65/AppData/Local/Temp/jetty-docbase.8080.12249089094149957061/, jar:file:/C:/Users/m65/.m2/repository/io/springfox/springfox-swagger-ui/3.0.0/springfox-swagger-ui-3.0.0.jar!/META-INF/resources],AVAILABLE}
+2021-09-13 15:42:23.221  INFO 17052 --- [restartedMain] org.eclipse.jetty.server.Server          : Started @232741ms
+2021-09-13 15:42:23.636  INFO 17052 --- [restartedMain] com.hazelcast.system                     : [192.168.0.113]:5701 [dev] [4.1.5] Hazelcast 4.1.5 (20210817 - 270c5be) starting at [192.168.0.113]:5701
+2021-09-13 15:42:23.648  INFO 17052 --- [restartedMain] c.h.s.d.integration.DiscoveryService     : [192.168.0.113]:5701 [dev] [4.1.5] No discovery strategy is applicable for auto-detection
+2021-09-13 15:42:24.334  INFO 17052 --- [restartedMain] com.hazelcast.instance.impl.Node         : [192.168.0.113]:5701 [dev] [4.1.5] Using Multicast discovery
+2021-09-13 15:42:24.335  WARN 17052 --- [restartedMain] com.hazelcast.cp.CPSubsystem             : [192.168.0.113]:5701 [dev] [4.1.5] CP Subsystem is not enabled. CP data structures will operate in UNSAFE mode! Please note that UNSAFE mode will not provide strong consistency guarantees.
+2021-09-13 15:42:24.349  INFO 17052 --- [restartedMain] c.h.internal.diagnostics.Diagnostics     : [192.168.0.113]:5701 [dev] [4.1.5] Diagnostics disabled. To enable add -Dhazelcast.diagnostics.enabled=true to the JVM arguments.
+2021-09-13 15:42:24.349  INFO 17052 --- [restartedMain] com.hazelcast.core.LifecycleService      : [192.168.0.113]:5701 [dev] [4.1.5] [192.168.0.113]:5701 is STARTING
+2021-09-13 15:42:26.432  INFO 17052 --- [restartedMain] c.h.internal.cluster.ClusterService      : [192.168.0.113]:5701 [dev] [4.1.5] 
+
+Members {size:1, ver:1} [
+	Member [192.168.0.113]:5701 - b552f747-6a4c-42c1-88aa-4c1aa92a0692 this
+]
+
+2021-09-13 15:42:26.432  INFO 17052 --- [restartedMain] com.hazelcast.core.LifecycleService      : [192.168.0.113]:5701 [dev] [4.1.5] [192.168.0.113]:5701 is STARTED
+2021-09-13 15:42:26.452  INFO 17052 --- [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-09-13 15:42:26.459  INFO 17052 --- [restartedMain] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2021-09-13 15:42:26.477  INFO 17052 --- [restartedMain] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-09-13 15:42:26.478  INFO 17052 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-09-13 15:42:26.593  WARN 17052 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-09-13 15:42:26.694  INFO 17052 --- [restartedMain] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 14 endpoint(s) beneath base path '/actuator'
+2021-09-13 15:42:26.762  INFO 17052 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-09-13 15:42:26.859  INFO 17052 --- [restartedMain] o.e.j.s.h.ContextHandler.application     : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-09-13 15:42:26.860  INFO 17052 --- [restartedMain] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-09-13 15:42:26.861  INFO 17052 --- [restartedMain] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2021-09-13 15:42:26.874  INFO 17052 --- [restartedMain] o.e.jetty.server.AbstractConnector       : Started ServerConnector@4c3af9e5{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+2021-09-13 15:42:26.874  INFO 17052 --- [restartedMain] o.s.b.web.embedded.jetty.JettyWebServer  : Jetty started on port(s) 8080 (http/1.1) with context path '/studentapi'
+2021-09-13 15:42:26.974  INFO 17052 --- [restartedMain] c.m.s.StudentrestapiApplication          : Started StudentrestapiApplication in 4.69 seconds (JVM running for 236.493)
+2021-09-13 15:42:26.976  INFO 17052 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation delta:
+
+
+==========================
+CONDITION EVALUATION DELTA
+==========================
+
+
+Positive matches:
+-----------------
+
+   LogFileWebEndpointAutoConfiguration#logFileWebEndpoint matched:
+      - Log File found logging.file.name logs/application.log (LogFileWebEndpointAutoConfiguration.LogFileCondition)
+      - @ConditionalOnMissingBean (types: org.springframework.boot.actuate.logging.LogFileWebEndpoint; SearchStrategy: all) did not find any beans (OnBeanCondition)
+
+
+Negative matches:
+-----------------
+
+    None
+
+
+Exclusions:
+-----------
+
+    None
+
+
+Unconditional classes:
+----------------------
+
+    None
+
+
+
+2021-09-13 15:43:19.714  INFO 17052 --- [RMI TCP Connection(5)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2021-09-13 15:43:19.722  INFO 17052 --- [RMI TCP Connection(5)-127.0.0.1] o.e.jetty.server.AbstractConnector       : Stopped ServerConnector@4c3af9e5{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+2021-09-13 15:43:19.722  INFO 17052 --- [RMI TCP Connection(5)-127.0.0.1] org.eclipse.jetty.server.session         : node0 Stopped scavenging
+2021-09-13 15:43:19.724  INFO 17052 --- [RMI TCP Connection(5)-127.0.0.1] o.e.j.s.h.ContextHandler.application     : Destroying Spring FrameworkServlet 'dispatcherServlet'
+2021-09-13 15:43:19.724  INFO 17052 --- [RMI TCP Connection(5)-127.0.0.1] o.e.jetty.server.handler.ContextHandler  : Stopped o.s.b.w.e.j.JettyEmbeddedWebAppContext@3135114b{application,/studentapi,[file:///C:/Users/m65/AppData/Local/Temp/jetty-docbase.8080.12249089094149957061/, jar:file:/C:/Users/m65/.m2/repository/io/springfox/springfox-swagger-ui/3.0.0/springfox-swagger-ui-3.0.0.jar!/META-INF/resources],STOPPED}
+2021-09-13 15:43:19.730  INFO 17052 --- [RMI TCP Connection(5)-127.0.0.1] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-09-13 15:43:19.749  INFO 17052 --- [RMI TCP Connection(5)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-3 - Shutdown initiated...
+2021-09-13 15:43:19.780  INFO 17052 --- [RMI TCP Connection(5)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-3 - Shutdown completed.
+2021-09-13 15:46:40.621  INFO 20164 --- [restartedMain] c.m.s.StudentrestapiApplication          : Starting StudentrestapiApplication using Java 11.0.11 on LHTU05CD9305NSZ with PID 20164 (C:\springPractice\studentrestapi\target\classes started by m65 in C:\springPractice\studentrestapi)
+2021-09-13 15:46:40.624  INFO 20164 --- [restartedMain] c.m.s.StudentrestapiApplication          : No active profile set, falling back to default profiles: default
+2021-09-13 15:46:40.658  INFO 20164 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-09-13 15:46:40.659  INFO 20164 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-09-13 15:46:41.703  INFO 20164 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-09-13 15:46:41.741  INFO 20164 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 31 ms. Found 1 JPA repository interfaces.
+2021-09-13 15:46:42.053  INFO 20164 --- [restartedMain] org.eclipse.jetty.util.log               : Logging initialized @2766ms to org.eclipse.jetty.util.log.Slf4jLog
+2021-09-13 15:46:42.273  INFO 20164 --- [restartedMain] o.s.b.w.e.j.JettyServletWebServerFactory : Server initialized with port: 8080
+2021-09-13 15:46:42.275  INFO 20164 --- [restartedMain] org.eclipse.jetty.server.Server          : jetty-9.4.43.v20210629; built: 2021-06-30T11:07:22.254Z; git: 526006ecfa3af7f1a27ef3a288e2bef7ea9dd7e8; jvm 11.0.11+9
+2021-09-13 15:46:42.295  INFO 20164 --- [restartedMain] o.e.j.s.h.ContextHandler.application     : Initializing Spring embedded WebApplicationContext
+2021-09-13 15:46:42.295  INFO 20164 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1636 ms
+2021-09-13 15:46:42.384  INFO 20164 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2021-09-13 15:46:42.589  INFO 20164 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2021-09-13 15:46:42.593  INFO 20164 --- [restartedMain] o.s.b.a.h2.H2ConsoleAutoConfiguration    : H2 console available at '/h2-console'. Database available at 'jdbc:mysql://localhost:3306/myStudentDb'
+2021-09-13 15:46:42.669  INFO 20164 --- [restartedMain] org.eclipse.jetty.server.session         : DefaultSessionIdManager workerName=node0
+2021-09-13 15:46:42.669  INFO 20164 --- [restartedMain] org.eclipse.jetty.server.session         : No SessionScavenger set, using defaults
+2021-09-13 15:46:42.670  INFO 20164 --- [restartedMain] org.eclipse.jetty.server.session         : node0 Scavenging every 660000ms
+2021-09-13 15:46:42.678  INFO 20164 --- [restartedMain] o.e.jetty.server.handler.ContextHandler  : Started o.s.b.w.e.j.JettyEmbeddedWebAppContext@4fbc8b39{application,/studentapi,[file:///C:/Users/m65/AppData/Local/Temp/jetty-docbase.8080.4205146312994024433/, jar:file:/C:/Users/m65/.m2/repository/org/webjars/swagger-ui/3.51.1/swagger-ui-3.51.1.jar!/META-INF/resources],AVAILABLE}
+2021-09-13 15:46:42.678  INFO 20164 --- [restartedMain] org.eclipse.jetty.server.Server          : Started @3391ms
+2021-09-13 15:46:42.730  WARN 20164 --- [restartedMain] c.h.i.impl.HazelcastInstanceFactory      : Hazelcast is starting in a Java modular environment (Java 9 and newer) but without proper access to required Java packages. Use additional Java arguments to provide Hazelcast access to Java internal API. The internal API access is used to get the best performance results. Arguments to be used:
+ --add-modules java.se --add-exports java.base/jdk.internal.ref=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/java.nio=ALL-UNNAMED --add-opens java.base/sun.nio.ch=ALL-UNNAMED --add-opens java.management/sun.management=ALL-UNNAMED --add-opens jdk.management/com.sun.management.internal=ALL-UNNAMED
+2021-09-13 15:46:43.033  INFO 20164 --- [restartedMain] com.hazelcast.system                     : [192.168.0.113]:5701 [dev] [4.1.5] Hazelcast 4.1.5 (20210817 - 270c5be) starting at [192.168.0.113]:5701
+2021-09-13 15:46:43.266  INFO 20164 --- [restartedMain] c.h.s.d.integration.DiscoveryService     : [192.168.0.113]:5701 [dev] [4.1.5] No discovery strategy is applicable for auto-detection
+2021-09-13 15:46:43.786  INFO 20164 --- [restartedMain] com.hazelcast.instance.impl.Node         : [192.168.0.113]:5701 [dev] [4.1.5] Using Multicast discovery
+2021-09-13 15:46:43.788  WARN 20164 --- [restartedMain] com.hazelcast.cp.CPSubsystem             : [192.168.0.113]:5701 [dev] [4.1.5] CP Subsystem is not enabled. CP data structures will operate in UNSAFE mode! Please note that UNSAFE mode will not provide strong consistency guarantees.
+2021-09-13 15:46:43.919  INFO 20164 --- [restartedMain] c.h.internal.diagnostics.Diagnostics     : [192.168.0.113]:5701 [dev] [4.1.5] Diagnostics disabled. To enable add -Dhazelcast.diagnostics.enabled=true to the JVM arguments.
+2021-09-13 15:46:43.927  INFO 20164 --- [restartedMain] com.hazelcast.core.LifecycleService      : [192.168.0.113]:5701 [dev] [4.1.5] [192.168.0.113]:5701 is STARTING
+2021-09-13 15:46:46.257  INFO 20164 --- [restartedMain] c.h.internal.cluster.ClusterService      : [192.168.0.113]:5701 [dev] [4.1.5] 
+
+Members {size:1, ver:1} [
+	Member [192.168.0.113]:5701 - 9b5ce8de-5d75-496d-8579-96f4133d1326 this
+]
+
+2021-09-13 15:46:46.266  INFO 20164 --- [restartedMain] com.hazelcast.core.LifecycleService      : [192.168.0.113]:5701 [dev] [4.1.5] [192.168.0.113]:5701 is STARTED
+2021-09-13 15:46:46.397  INFO 20164 --- [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-09-13 15:46:46.435  INFO 20164 --- [restartedMain] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.4.32.Final
+2021-09-13 15:46:46.516  INFO 20164 --- [restartedMain] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-09-13 15:46:46.593  INFO 20164 --- [restartedMain] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2021-09-13 15:46:46.919  INFO 20164 --- [restartedMain] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-09-13 15:46:46.926  INFO 20164 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-09-13 15:46:47.324  WARN 20164 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-09-13 15:46:47.494  INFO 20164 --- [restartedMain] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 14 endpoint(s) beneath base path '/actuator'
+2021-09-13 15:46:47.583  INFO 20164 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-09-13 15:46:48.076  INFO 20164 --- [restartedMain] o.e.j.s.h.ContextHandler.application     : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-09-13 15:46:48.076  INFO 20164 --- [restartedMain] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-09-13 15:46:48.078  INFO 20164 --- [restartedMain] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2021-09-13 15:46:48.090  INFO 20164 --- [restartedMain] o.e.jetty.server.AbstractConnector       : Started ServerConnector@1584130b{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+2021-09-13 15:46:48.091  INFO 20164 --- [restartedMain] o.s.b.web.embedded.jetty.JettyWebServer  : Jetty started on port(s) 8080 (http/1.1) with context path '/studentapi'
+2021-09-13 15:46:48.325  INFO 20164 --- [restartedMain] c.m.s.StudentrestapiApplication          : Started StudentrestapiApplication in 8.008 seconds (JVM running for 9.037)
+2021-09-13 15:47:00.259  INFO 20164 --- [qtp581705115-33] o.springdoc.api.AbstractOpenApiResource  : Init duration for springdoc-openapi is: 140 ms
+2021-09-13 15:48:24.934  INFO 20164 --- [RMI TCP Connection(5)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2021-09-13 15:48:24.942  INFO 20164 --- [RMI TCP Connection(5)-127.0.0.1] o.e.jetty.server.AbstractConnector       : Stopped ServerConnector@1584130b{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+2021-09-13 15:48:24.943  INFO 20164 --- [RMI TCP Connection(5)-127.0.0.1] org.eclipse.jetty.server.session         : node0 Stopped scavenging
+2021-09-13 15:48:24.945  INFO 20164 --- [RMI TCP Connection(5)-127.0.0.1] o.e.j.s.h.ContextHandler.application     : Destroying Spring FrameworkServlet 'dispatcherServlet'
+2021-09-13 15:48:24.945  INFO 20164 --- [RMI TCP Connection(5)-127.0.0.1] o.e.jetty.server.handler.ContextHandler  : Stopped o.s.b.w.e.j.JettyEmbeddedWebAppContext@4fbc8b39{application,/studentapi,[file:///C:/Users/m65/AppData/Local/Temp/jetty-docbase.8080.4205146312994024433/, jar:file:/C:/Users/m65/.m2/repository/org/webjars/swagger-ui/3.51.1/swagger-ui-3.51.1.jar!/META-INF/resources],STOPPED}
+2021-09-13 15:48:24.951  INFO 20164 --- [RMI TCP Connection(5)-127.0.0.1] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-09-13 15:48:24.971  INFO 20164 --- [RMI TCP Connection(5)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2021-09-13 15:48:24.981  INFO 20164 --- [RMI TCP Connection(5)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2021-09-13 15:48:52.199  INFO 2132 --- [restartedMain] c.m.s.StudentrestapiApplication          : Starting StudentrestapiApplication using Java 11.0.11 on LHTU05CD9305NSZ with PID 2132 (C:\springPractice\studentrestapi\target\classes started by m65 in C:\springPractice\studentrestapi)
+2021-09-13 15:48:52.201  INFO 2132 --- [restartedMain] c.m.s.StudentrestapiApplication          : No active profile set, falling back to default profiles: default
+2021-09-13 15:48:52.236  INFO 2132 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-09-13 15:48:52.236  INFO 2132 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-09-13 15:48:53.250  INFO 2132 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-09-13 15:48:53.291  INFO 2132 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 33 ms. Found 1 JPA repository interfaces.
+2021-09-13 15:48:53.618  INFO 2132 --- [restartedMain] org.eclipse.jetty.util.log               : Logging initialized @2686ms to org.eclipse.jetty.util.log.Slf4jLog
+2021-09-13 15:48:53.845  INFO 2132 --- [restartedMain] o.s.b.w.e.j.JettyServletWebServerFactory : Server initialized with port: 8080
+2021-09-13 15:48:53.847  INFO 2132 --- [restartedMain] org.eclipse.jetty.server.Server          : jetty-9.4.43.v20210629; built: 2021-06-30T11:07:22.254Z; git: 526006ecfa3af7f1a27ef3a288e2bef7ea9dd7e8; jvm 11.0.11+9
+2021-09-13 15:48:53.870  INFO 2132 --- [restartedMain] o.e.j.s.h.ContextHandler.application     : Initializing Spring embedded WebApplicationContext
+2021-09-13 15:48:53.871  INFO 2132 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1635 ms
+2021-09-13 15:48:53.963  INFO 2132 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2021-09-13 15:48:54.191  INFO 2132 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2021-09-13 15:48:54.201  INFO 2132 --- [restartedMain] o.s.b.a.h2.H2ConsoleAutoConfiguration    : H2 console available at '/h2-console'. Database available at 'jdbc:mysql://localhost:3306/myStudentDb'
+2021-09-13 15:48:54.336  INFO 2132 --- [restartedMain] org.eclipse.jetty.server.session         : DefaultSessionIdManager workerName=node0
+2021-09-13 15:48:54.336  INFO 2132 --- [restartedMain] org.eclipse.jetty.server.session         : No SessionScavenger set, using defaults
+2021-09-13 15:48:54.339  INFO 2132 --- [restartedMain] org.eclipse.jetty.server.session         : node0 Scavenging every 600000ms
+2021-09-13 15:48:54.352  INFO 2132 --- [restartedMain] o.e.jetty.server.handler.ContextHandler  : Started o.s.b.w.e.j.JettyEmbeddedWebAppContext@5b6a6986{application,/studentapi,[file:///C:/Users/m65/AppData/Local/Temp/jetty-docbase.8080.14474095112242016398/, jar:file:/C:/Users/m65/.m2/repository/io/springfox/springfox-swagger-ui/3.0.0/springfox-swagger-ui-3.0.0.jar!/META-INF/resources],AVAILABLE}
+2021-09-13 15:48:54.353  INFO 2132 --- [restartedMain] org.eclipse.jetty.server.Server          : Started @3421ms
+2021-09-13 15:48:54.411  WARN 2132 --- [restartedMain] c.h.i.impl.HazelcastInstanceFactory      : Hazelcast is starting in a Java modular environment (Java 9 and newer) but without proper access to required Java packages. Use additional Java arguments to provide Hazelcast access to Java internal API. The internal API access is used to get the best performance results. Arguments to be used:
+ --add-modules java.se --add-exports java.base/jdk.internal.ref=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/java.nio=ALL-UNNAMED --add-opens java.base/sun.nio.ch=ALL-UNNAMED --add-opens java.management/sun.management=ALL-UNNAMED --add-opens jdk.management/com.sun.management.internal=ALL-UNNAMED
+2021-09-13 15:48:54.712  INFO 2132 --- [restartedMain] com.hazelcast.system                     : [192.168.0.113]:5701 [dev] [4.1.5] Hazelcast 4.1.5 (20210817 - 270c5be) starting at [192.168.0.113]:5701
+2021-09-13 15:48:54.950  INFO 2132 --- [restartedMain] c.h.s.d.integration.DiscoveryService     : [192.168.0.113]:5701 [dev] [4.1.5] No discovery strategy is applicable for auto-detection
+2021-09-13 15:48:55.473  INFO 2132 --- [restartedMain] com.hazelcast.instance.impl.Node         : [192.168.0.113]:5701 [dev] [4.1.5] Using Multicast discovery
+2021-09-13 15:48:55.475  WARN 2132 --- [restartedMain] com.hazelcast.cp.CPSubsystem             : [192.168.0.113]:5701 [dev] [4.1.5] CP Subsystem is not enabled. CP data structures will operate in UNSAFE mode! Please note that UNSAFE mode will not provide strong consistency guarantees.
+2021-09-13 15:48:55.607  INFO 2132 --- [restartedMain] c.h.internal.diagnostics.Diagnostics     : [192.168.0.113]:5701 [dev] [4.1.5] Diagnostics disabled. To enable add -Dhazelcast.diagnostics.enabled=true to the JVM arguments.
+2021-09-13 15:48:55.615  INFO 2132 --- [restartedMain] com.hazelcast.core.LifecycleService      : [192.168.0.113]:5701 [dev] [4.1.5] [192.168.0.113]:5701 is STARTING
+2021-09-13 15:48:58.328  INFO 2132 --- [restartedMain] c.h.internal.cluster.ClusterService      : [192.168.0.113]:5701 [dev] [4.1.5] 
+
+Members {size:1, ver:1} [
+	Member [192.168.0.113]:5701 - 3e778235-40e7-44b3-a1bb-0bc4dc88c222 this
+]
+
+2021-09-13 15:48:58.337  INFO 2132 --- [restartedMain] com.hazelcast.core.LifecycleService      : [192.168.0.113]:5701 [dev] [4.1.5] [192.168.0.113]:5701 is STARTED
+2021-09-13 15:48:58.441  INFO 2132 --- [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-09-13 15:48:58.496  INFO 2132 --- [restartedMain] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.4.32.Final
+2021-09-13 15:48:58.590  INFO 2132 --- [restartedMain] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-09-13 15:48:58.676  INFO 2132 --- [restartedMain] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2021-09-13 15:48:59.016  INFO 2132 --- [restartedMain] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-09-13 15:48:59.023  INFO 2132 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-09-13 15:48:59.413  WARN 2132 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-09-13 15:48:59.575  INFO 2132 --- [restartedMain] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 14 endpoint(s) beneath base path '/actuator'
+2021-09-13 15:48:59.698  INFO 2132 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-09-13 15:48:59.876  INFO 2132 --- [restartedMain] o.e.j.s.h.ContextHandler.application     : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-09-13 15:48:59.876  INFO 2132 --- [restartedMain] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-09-13 15:48:59.878  INFO 2132 --- [restartedMain] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2021-09-13 15:48:59.891  INFO 2132 --- [restartedMain] o.e.jetty.server.AbstractConnector       : Started ServerConnector@45b59214{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+2021-09-13 15:48:59.892  INFO 2132 --- [restartedMain] o.s.b.web.embedded.jetty.JettyWebServer  : Jetty started on port(s) 8080 (http/1.1) with context path '/studentapi'
+2021-09-13 15:49:00.141  INFO 2132 --- [restartedMain] c.m.s.StudentrestapiApplication          : Started StudentrestapiApplication in 8.254 seconds (JVM running for 9.21)
+2021-09-13 15:49:36.478  INFO 2132 --- [Thread-13] o.e.jetty.server.AbstractConnector       : Stopped ServerConnector@45b59214{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+2021-09-13 15:49:36.480  INFO 2132 --- [Thread-13] org.eclipse.jetty.server.session         : node0 Stopped scavenging
+2021-09-13 15:49:36.482  INFO 2132 --- [Thread-13] o.e.j.s.h.ContextHandler.application     : Destroying Spring FrameworkServlet 'dispatcherServlet'
+2021-09-13 15:49:36.482  INFO 2132 --- [Thread-13] o.e.jetty.server.handler.ContextHandler  : Stopped o.s.b.w.e.j.JettyEmbeddedWebAppContext@5b6a6986{application,/studentapi,[file:///C:/Users/m65/AppData/Local/Temp/jetty-docbase.8080.14474095112242016398/, jar:file:/C:/Users/m65/.m2/repository/io/springfox/springfox-swagger-ui/3.0.0/springfox-swagger-ui-3.0.0.jar!/META-INF/resources],STOPPED}
+2021-09-13 15:49:36.488  INFO 2132 --- [Thread-13] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-09-13 15:49:36.512  INFO 2132 --- [Thread-13] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2021-09-13 15:49:36.533  INFO 2132 --- [Thread-13] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2021-09-13 15:49:42.449  INFO 2132 --- [restartedMain] c.m.s.StudentrestapiApplication          : Starting StudentrestapiApplication using Java 11.0.11 on LHTU05CD9305NSZ with PID 2132 (C:\springPractice\studentrestapi\target\classes started by m65 in C:\springPractice\studentrestapi)
+2021-09-13 15:49:42.449  INFO 2132 --- [restartedMain] c.m.s.StudentrestapiApplication          : No active profile set, falling back to default profiles: default
+2021-09-13 15:49:42.815  INFO 2132 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-09-13 15:49:42.824  INFO 2132 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 9 ms. Found 1 JPA repository interfaces.
+2021-09-13 15:49:42.935  INFO 2132 --- [restartedMain] o.s.b.w.e.j.JettyServletWebServerFactory : Server initialized with port: 8080
+2021-09-13 15:49:42.935  INFO 2132 --- [restartedMain] org.eclipse.jetty.server.Server          : jetty-9.4.43.v20210629; built: 2021-06-30T11:07:22.254Z; git: 526006ecfa3af7f1a27ef3a288e2bef7ea9dd7e8; jvm 11.0.11+9
+2021-09-13 15:49:42.936  INFO 2132 --- [restartedMain] o.e.j.s.h.ContextHandler.application     : Initializing Spring embedded WebApplicationContext
+2021-09-13 15:49:42.936  INFO 2132 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 485 ms
+2021-09-13 15:49:42.959  INFO 2132 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-3 - Starting...
+2021-09-13 15:49:42.977  INFO 2132 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-3 - Start completed.
+2021-09-13 15:49:42.977  INFO 2132 --- [restartedMain] o.s.b.a.h2.H2ConsoleAutoConfiguration    : H2 console available at '/h2-console'. Database available at 'jdbc:mysql://localhost:3306/myStudentDb'
+2021-09-13 15:49:42.995  INFO 2132 --- [restartedMain] org.eclipse.jetty.server.session         : DefaultSessionIdManager workerName=node0
+2021-09-13 15:49:42.995  INFO 2132 --- [restartedMain] org.eclipse.jetty.server.session         : No SessionScavenger set, using defaults
+2021-09-13 15:49:42.995  INFO 2132 --- [restartedMain] org.eclipse.jetty.server.session         : node0 Scavenging every 600000ms
+2021-09-13 15:49:42.996  INFO 2132 --- [restartedMain] o.e.jetty.server.handler.ContextHandler  : Started o.s.b.w.e.j.JettyEmbeddedWebAppContext@646b4a1b{application,/studentapi,[file:///C:/Users/m65/AppData/Local/Temp/jetty-docbase.8080.6810823429526198120/, jar:file:/C:/Users/m65/.m2/repository/io/springfox/springfox-swagger-ui/3.0.0/springfox-swagger-ui-3.0.0.jar!/META-INF/resources],AVAILABLE}
+2021-09-13 15:49:42.996  INFO 2132 --- [restartedMain] org.eclipse.jetty.server.Server          : Started @52065ms
+2021-09-13 15:49:43.252  INFO 2132 --- [restartedMain] com.hazelcast.system                     : [192.168.0.113]:5701 [dev] [4.1.5] Hazelcast 4.1.5 (20210817 - 270c5be) starting at [192.168.0.113]:5701
+2021-09-13 15:49:43.261  INFO 2132 --- [restartedMain] c.h.s.d.integration.DiscoveryService     : [192.168.0.113]:5701 [dev] [4.1.5] No discovery strategy is applicable for auto-detection
+2021-09-13 15:49:43.687  INFO 2132 --- [restartedMain] com.hazelcast.instance.impl.Node         : [192.168.0.113]:5701 [dev] [4.1.5] Using Multicast discovery
+2021-09-13 15:49:43.687  WARN 2132 --- [restartedMain] com.hazelcast.cp.CPSubsystem             : [192.168.0.113]:5701 [dev] [4.1.5] CP Subsystem is not enabled. CP data structures will operate in UNSAFE mode! Please note that UNSAFE mode will not provide strong consistency guarantees.
+2021-09-13 15:49:43.697  INFO 2132 --- [restartedMain] c.h.internal.diagnostics.Diagnostics     : [192.168.0.113]:5701 [dev] [4.1.5] Diagnostics disabled. To enable add -Dhazelcast.diagnostics.enabled=true to the JVM arguments.
+2021-09-13 15:49:43.697  INFO 2132 --- [restartedMain] com.hazelcast.core.LifecycleService      : [192.168.0.113]:5701 [dev] [4.1.5] [192.168.0.113]:5701 is STARTING
+2021-09-13 15:49:46.238  INFO 2132 --- [restartedMain] c.h.internal.cluster.ClusterService      : [192.168.0.113]:5701 [dev] [4.1.5] 
+
+Members {size:1, ver:1} [
+	Member [192.168.0.113]:5701 - 4bc46e90-c22f-472c-ac21-3df5e67e3646 this
+]
+
+2021-09-13 15:49:46.238  INFO 2132 --- [restartedMain] com.hazelcast.core.LifecycleService      : [192.168.0.113]:5701 [dev] [4.1.5] [192.168.0.113]:5701 is STARTED
+2021-09-13 15:49:46.253  INFO 2132 --- [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-09-13 15:49:46.258  INFO 2132 --- [restartedMain] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2021-09-13 15:49:46.272  INFO 2132 --- [restartedMain] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-09-13 15:49:46.273  INFO 2132 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-09-13 15:49:46.368  WARN 2132 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-09-13 15:49:46.427  INFO 2132 --- [restartedMain] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 14 endpoint(s) beneath base path '/actuator'
+2021-09-13 15:49:46.476  INFO 2132 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-09-13 15:49:46.557  INFO 2132 --- [restartedMain] o.e.j.s.h.ContextHandler.application     : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-09-13 15:49:46.558  INFO 2132 --- [restartedMain] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-09-13 15:49:46.559  INFO 2132 --- [restartedMain] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2021-09-13 15:49:46.566  INFO 2132 --- [restartedMain] o.e.jetty.server.AbstractConnector       : Started ServerConnector@20c5c174{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+2021-09-13 15:49:46.566  INFO 2132 --- [restartedMain] o.s.b.web.embedded.jetty.JettyWebServer  : Jetty started on port(s) 8080 (http/1.1) with context path '/studentapi'
+2021-09-13 15:49:46.656  INFO 2132 --- [restartedMain] c.m.s.StudentrestapiApplication          : Started StudentrestapiApplication in 4.23 seconds (JVM running for 55.725)
+2021-09-13 15:49:46.658  INFO 2132 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation delta:
+
+
+==========================
+CONDITION EVALUATION DELTA
+==========================
+
+
+Positive matches:
+-----------------
+
+   InfoContributorAutoConfiguration#buildInfoContributor matched:
+      - @ConditionalOnEnabledInfoContributor management.info.defaults.enabled is considered true (OnEnabledInfoContributorCondition)
+      - @ConditionalOnSingleCandidate (types: org.springframework.boot.info.BuildProperties; SearchStrategy: all) found a primary bean from beans 'buildProperties' (OnBeanCondition)
+
+   LogFileWebEndpointAutoConfiguration#logFileWebEndpoint matched:
+      - Log File found logging.file.name logs/application.log (LogFileWebEndpointAutoConfiguration.LogFileCondition)
+      - @ConditionalOnMissingBean (types: org.springframework.boot.actuate.logging.LogFileWebEndpoint; SearchStrategy: all) did not find any beans (OnBeanCondition)
+
+   ProjectInfoAutoConfiguration#buildProperties matched:
+      - @ConditionalOnResource found location ${spring.info.build.location:classpath:META-INF/build-info.properties} (OnResourceCondition)
+      - @ConditionalOnMissingBean (types: org.springframework.boot.info.BuildProperties; SearchStrategy: all) did not find any beans (OnBeanCondition)
+
+
+Negative matches:
+-----------------
+
+    None
+
+
+Exclusions:
+-----------
+
+    None
+
+
+Unconditional classes:
+----------------------
+
+    None
+
+
+
+2021-09-13 15:50:00.876  INFO 2132 --- [RMI TCP Connection(5)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2021-09-13 15:50:00.882  INFO 2132 --- [RMI TCP Connection(5)-127.0.0.1] o.e.jetty.server.AbstractConnector       : Stopped ServerConnector@20c5c174{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+2021-09-13 15:50:00.882  INFO 2132 --- [RMI TCP Connection(5)-127.0.0.1] org.eclipse.jetty.server.session         : node0 Stopped scavenging
+2021-09-13 15:50:00.883  INFO 2132 --- [RMI TCP Connection(5)-127.0.0.1] o.e.j.s.h.ContextHandler.application     : Destroying Spring FrameworkServlet 'dispatcherServlet'
+2021-09-13 15:50:00.883  INFO 2132 --- [RMI TCP Connection(5)-127.0.0.1] o.e.jetty.server.handler.ContextHandler  : Stopped o.s.b.w.e.j.JettyEmbeddedWebAppContext@646b4a1b{application,/studentapi,[file:///C:/Users/m65/AppData/Local/Temp/jetty-docbase.8080.6810823429526198120/, jar:file:/C:/Users/m65/.m2/repository/io/springfox/springfox-swagger-ui/3.0.0/springfox-swagger-ui-3.0.0.jar!/META-INF/resources],STOPPED}
+2021-09-13 15:50:00.884  WARN 2132 --- [RMI TCP Connection(5)-127.0.0.1] o.e.jetty.util.thread.QueuedThreadPool   : Stopped without executing or closing null
+2021-09-13 15:50:00.889  INFO 2132 --- [RMI TCP Connection(5)-127.0.0.1] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-09-13 15:50:00.901  INFO 2132 --- [RMI TCP Connection(5)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-3 - Shutdown initiated...
+2021-09-13 15:50:00.913  INFO 2132 --- [RMI TCP Connection(5)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-3 - Shutdown completed.
+2021-09-13 15:50:12.661  INFO 11556 --- [restartedMain] c.m.s.StudentrestapiApplication          : Starting StudentrestapiApplication using Java 11.0.11 on LHTU05CD9305NSZ with PID 11556 (C:\springPractice\studentrestapi\target\classes started by m65 in C:\springPractice\studentrestapi)
+2021-09-13 15:50:12.664  INFO 11556 --- [restartedMain] c.m.s.StudentrestapiApplication          : No active profile set, falling back to default profiles: default
+2021-09-13 15:50:12.697  INFO 11556 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-09-13 15:50:12.697  INFO 11556 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-09-13 15:50:13.741  INFO 11556 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-09-13 15:50:13.779  INFO 11556 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 32 ms. Found 1 JPA repository interfaces.
+2021-09-13 15:50:14.092  INFO 11556 --- [restartedMain] org.eclipse.jetty.util.log               : Logging initialized @2687ms to org.eclipse.jetty.util.log.Slf4jLog
+2021-09-13 15:50:14.300  INFO 11556 --- [restartedMain] o.s.b.w.e.j.JettyServletWebServerFactory : Server initialized with port: 8080
+2021-09-13 15:50:14.302  INFO 11556 --- [restartedMain] org.eclipse.jetty.server.Server          : jetty-9.4.43.v20210629; built: 2021-06-30T11:07:22.254Z; git: 526006ecfa3af7f1a27ef3a288e2bef7ea9dd7e8; jvm 11.0.11+9
+2021-09-13 15:50:14.321  INFO 11556 --- [restartedMain] o.e.j.s.h.ContextHandler.application     : Initializing Spring embedded WebApplicationContext
+2021-09-13 15:50:14.321  INFO 11556 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1623 ms
+2021-09-13 15:50:14.398  INFO 11556 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2021-09-13 15:50:14.595  INFO 11556 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2021-09-13 15:50:14.600  INFO 11556 --- [restartedMain] o.s.b.a.h2.H2ConsoleAutoConfiguration    : H2 console available at '/h2-console'. Database available at 'jdbc:mysql://localhost:3306/myStudentDb'
+2021-09-13 15:50:14.671  INFO 11556 --- [restartedMain] org.eclipse.jetty.server.session         : DefaultSessionIdManager workerName=node0
+2021-09-13 15:50:14.671  INFO 11556 --- [restartedMain] org.eclipse.jetty.server.session         : No SessionScavenger set, using defaults
+2021-09-13 15:50:14.672  INFO 11556 --- [restartedMain] org.eclipse.jetty.server.session         : node0 Scavenging every 600000ms
+2021-09-13 15:50:14.679  INFO 11556 --- [restartedMain] o.e.jetty.server.handler.ContextHandler  : Started o.s.b.w.e.j.JettyEmbeddedWebAppContext@5056265{application,/studentapi,[file:///C:/Users/m65/AppData/Local/Temp/jetty-docbase.8080.17299933830072230955/, jar:file:/C:/Users/m65/.m2/repository/org/webjars/swagger-ui/3.51.1/swagger-ui-3.51.1.jar!/META-INF/resources],AVAILABLE}
+2021-09-13 15:50:14.680  INFO 11556 --- [restartedMain] org.eclipse.jetty.server.Server          : Started @3275ms
+2021-09-13 15:50:14.730  WARN 11556 --- [restartedMain] c.h.i.impl.HazelcastInstanceFactory      : Hazelcast is starting in a Java modular environment (Java 9 and newer) but without proper access to required Java packages. Use additional Java arguments to provide Hazelcast access to Java internal API. The internal API access is used to get the best performance results. Arguments to be used:
+ --add-modules java.se --add-exports java.base/jdk.internal.ref=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/java.nio=ALL-UNNAMED --add-opens java.base/sun.nio.ch=ALL-UNNAMED --add-opens java.management/sun.management=ALL-UNNAMED --add-opens jdk.management/com.sun.management.internal=ALL-UNNAMED
+2021-09-13 15:50:15.039  INFO 11556 --- [restartedMain] com.hazelcast.system                     : [192.168.0.113]:5701 [dev] [4.1.5] Hazelcast 4.1.5 (20210817 - 270c5be) starting at [192.168.0.113]:5701
+2021-09-13 15:50:15.272  INFO 11556 --- [restartedMain] c.h.s.d.integration.DiscoveryService     : [192.168.0.113]:5701 [dev] [4.1.5] No discovery strategy is applicable for auto-detection
+2021-09-13 15:50:15.795  INFO 11556 --- [restartedMain] com.hazelcast.instance.impl.Node         : [192.168.0.113]:5701 [dev] [4.1.5] Using Multicast discovery
+2021-09-13 15:50:15.797  WARN 11556 --- [restartedMain] com.hazelcast.cp.CPSubsystem             : [192.168.0.113]:5701 [dev] [4.1.5] CP Subsystem is not enabled. CP data structures will operate in UNSAFE mode! Please note that UNSAFE mode will not provide strong consistency guarantees.
+2021-09-13 15:50:15.929  INFO 11556 --- [restartedMain] c.h.internal.diagnostics.Diagnostics     : [192.168.0.113]:5701 [dev] [4.1.5] Diagnostics disabled. To enable add -Dhazelcast.diagnostics.enabled=true to the JVM arguments.
+2021-09-13 15:50:15.937  INFO 11556 --- [restartedMain] com.hazelcast.core.LifecycleService      : [192.168.0.113]:5701 [dev] [4.1.5] [192.168.0.113]:5701 is STARTING
+2021-09-13 15:50:18.500  INFO 11556 --- [restartedMain] c.h.internal.cluster.ClusterService      : [192.168.0.113]:5701 [dev] [4.1.5] 
+
+Members {size:1, ver:1} [
+	Member [192.168.0.113]:5701 - 10b8d69d-930e-43af-b475-a0922d2eec7e this
+]
+
+2021-09-13 15:50:18.511  INFO 11556 --- [restartedMain] com.hazelcast.core.LifecycleService      : [192.168.0.113]:5701 [dev] [4.1.5] [192.168.0.113]:5701 is STARTED
+2021-09-13 15:50:18.618  INFO 11556 --- [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-09-13 15:50:18.676  INFO 11556 --- [restartedMain] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.4.32.Final
+2021-09-13 15:50:18.763  INFO 11556 --- [restartedMain] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-09-13 15:50:18.842  INFO 11556 --- [restartedMain] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2021-09-13 15:50:19.207  INFO 11556 --- [restartedMain] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-09-13 15:50:19.214  INFO 11556 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-09-13 15:50:19.623  WARN 11556 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-09-13 15:50:19.796  INFO 11556 --- [restartedMain] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 14 endpoint(s) beneath base path '/actuator'
+2021-09-13 15:50:19.892  INFO 11556 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-09-13 15:50:20.385  INFO 11556 --- [restartedMain] o.e.j.s.h.ContextHandler.application     : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-09-13 15:50:20.385  INFO 11556 --- [restartedMain] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-09-13 15:50:20.387  INFO 11556 --- [restartedMain] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2021-09-13 15:50:20.399  INFO 11556 --- [restartedMain] o.e.jetty.server.AbstractConnector       : Started ServerConnector@28c970aa{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+2021-09-13 15:50:20.400  INFO 11556 --- [restartedMain] o.s.b.web.embedded.jetty.JettyWebServer  : Jetty started on port(s) 8080 (http/1.1) with context path '/studentapi'
+2021-09-13 15:50:20.655  INFO 11556 --- [restartedMain] c.m.s.StudentrestapiApplication          : Started StudentrestapiApplication in 8.283 seconds (JVM running for 9.25)
+2021-09-13 15:50:27.493  INFO 11556 --- [qtp1738811703-33] o.springdoc.api.AbstractOpenApiResource  : Init duration for springdoc-openapi is: 143 ms
+2021-09-13 15:58:38.135  INFO 11556 --- [Thread-13] o.e.jetty.server.AbstractConnector       : Stopped ServerConnector@28c970aa{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+2021-09-13 15:58:38.135  INFO 11556 --- [Thread-13] org.eclipse.jetty.server.session         : node0 Stopped scavenging
+2021-09-13 15:58:38.137  INFO 11556 --- [Thread-13] o.e.j.s.h.ContextHandler.application     : Destroying Spring FrameworkServlet 'dispatcherServlet'
+2021-09-13 15:58:38.138  INFO 11556 --- [Thread-13] o.e.jetty.server.handler.ContextHandler  : Stopped o.s.b.w.e.j.JettyEmbeddedWebAppContext@5056265{application,/studentapi,[file:///C:/Users/m65/AppData/Local/Temp/jetty-docbase.8080.17299933830072230955/, jar:file:/C:/Users/m65/.m2/repository/org/webjars/swagger-ui/3.51.1/swagger-ui-3.51.1.jar!/META-INF/resources],STOPPED}
+2021-09-13 15:58:38.144  INFO 11556 --- [Thread-13] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-09-13 15:58:38.168  INFO 11556 --- [Thread-13] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2021-09-13 15:58:38.186  INFO 11556 --- [Thread-13] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2021-09-13 15:58:38.327  INFO 11556 --- [restartedMain] c.m.s.StudentrestapiApplication          : Starting StudentrestapiApplication using Java 11.0.11 on LHTU05CD9305NSZ with PID 11556 (C:\springPractice\studentrestapi\target\classes started by m65 in C:\springPractice\studentrestapi)
+2021-09-13 15:58:38.328  INFO 11556 --- [restartedMain] c.m.s.StudentrestapiApplication          : No active profile set, falling back to default profiles: default
+2021-09-13 15:58:38.879  INFO 11556 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-09-13 15:58:38.891  INFO 11556 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 12 ms. Found 1 JPA repository interfaces.
+2021-09-13 15:58:39.038  INFO 11556 --- [restartedMain] o.s.b.w.e.j.JettyServletWebServerFactory : Server initialized with port: 8080
+2021-09-13 15:58:39.038  INFO 11556 --- [restartedMain] org.eclipse.jetty.server.Server          : jetty-9.4.43.v20210629; built: 2021-06-30T11:07:22.254Z; git: 526006ecfa3af7f1a27ef3a288e2bef7ea9dd7e8; jvm 11.0.11+9
+2021-09-13 15:58:39.040  INFO 11556 --- [restartedMain] o.e.j.s.h.ContextHandler.application     : Initializing Spring embedded WebApplicationContext
+2021-09-13 15:58:39.040  INFO 11556 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 710 ms
+2021-09-13 15:58:39.071  INFO 11556 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Starting...
+2021-09-13 15:58:39.096  INFO 11556 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Start completed.
+2021-09-13 15:58:39.096  INFO 11556 --- [restartedMain] o.s.b.a.h2.H2ConsoleAutoConfiguration    : H2 console available at '/h2-console'. Database available at 'jdbc:mysql://localhost:3306/myStudentDb'
+2021-09-13 15:58:39.119  INFO 11556 --- [restartedMain] org.eclipse.jetty.server.session         : DefaultSessionIdManager workerName=node0
+2021-09-13 15:58:39.119  INFO 11556 --- [restartedMain] org.eclipse.jetty.server.session         : No SessionScavenger set, using defaults
+2021-09-13 15:58:39.119  INFO 11556 --- [restartedMain] org.eclipse.jetty.server.session         : node0 Scavenging every 600000ms
+2021-09-13 15:58:39.120  INFO 11556 --- [restartedMain] o.e.jetty.server.handler.ContextHandler  : Started o.s.b.w.e.j.JettyEmbeddedWebAppContext@47796ce4{application,/studentapi,[file:///C:/Users/m65/AppData/Local/Temp/jetty-docbase.8080.4133140275413121847/, jar:file:/C:/Users/m65/.m2/repository/org/webjars/swagger-ui/3.51.1/swagger-ui-3.51.1.jar!/META-INF/resources],AVAILABLE}
+2021-09-13 15:58:39.121  INFO 11556 --- [restartedMain] org.eclipse.jetty.server.Server          : Started @507719ms
+2021-09-13 15:58:39.464  INFO 11556 --- [restartedMain] com.hazelcast.system                     : [192.168.0.113]:5701 [dev] [4.1.5] Hazelcast 4.1.5 (20210817 - 270c5be) starting at [192.168.0.113]:5701
+2021-09-13 15:58:39.476  INFO 11556 --- [restartedMain] c.h.s.d.integration.DiscoveryService     : [192.168.0.113]:5701 [dev] [4.1.5] No discovery strategy is applicable for auto-detection
+2021-09-13 15:58:40.034  INFO 11556 --- [restartedMain] com.hazelcast.instance.impl.Node         : [192.168.0.113]:5701 [dev] [4.1.5] Using Multicast discovery
+2021-09-13 15:58:40.034  WARN 11556 --- [restartedMain] com.hazelcast.cp.CPSubsystem             : [192.168.0.113]:5701 [dev] [4.1.5] CP Subsystem is not enabled. CP data structures will operate in UNSAFE mode! Please note that UNSAFE mode will not provide strong consistency guarantees.
+2021-09-13 15:58:40.045  INFO 11556 --- [restartedMain] c.h.internal.diagnostics.Diagnostics     : [192.168.0.113]:5701 [dev] [4.1.5] Diagnostics disabled. To enable add -Dhazelcast.diagnostics.enabled=true to the JVM arguments.
+2021-09-13 15:58:40.045  INFO 11556 --- [restartedMain] com.hazelcast.core.LifecycleService      : [192.168.0.113]:5701 [dev] [4.1.5] [192.168.0.113]:5701 is STARTING
+2021-09-13 15:58:42.385  INFO 11556 --- [restartedMain] c.h.internal.cluster.ClusterService      : [192.168.0.113]:5701 [dev] [4.1.5] 
+
+Members {size:1, ver:1} [
+	Member [192.168.0.113]:5701 - 7dfbe35d-ac9c-408f-84b7-bbc9a0c1a279 this
+]
+
+2021-09-13 15:58:42.386  INFO 11556 --- [restartedMain] com.hazelcast.core.LifecycleService      : [192.168.0.113]:5701 [dev] [4.1.5] [192.168.0.113]:5701 is STARTED
+2021-09-13 15:58:42.406  INFO 11556 --- [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-09-13 15:58:42.415  INFO 11556 --- [restartedMain] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2021-09-13 15:58:42.430  INFO 11556 --- [restartedMain] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-09-13 15:58:42.430  INFO 11556 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-09-13 15:58:42.552  WARN 11556 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-09-13 15:58:42.618  INFO 11556 --- [restartedMain] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 14 endpoint(s) beneath base path '/actuator'
+2021-09-13 15:58:42.656  INFO 11556 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-09-13 15:58:43.017  INFO 11556 --- [restartedMain] o.e.j.s.h.ContextHandler.application     : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-09-13 15:58:43.018  INFO 11556 --- [restartedMain] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-09-13 15:58:43.019  INFO 11556 --- [restartedMain] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2021-09-13 15:58:43.030  INFO 11556 --- [restartedMain] o.e.jetty.server.AbstractConnector       : Started ServerConnector@5c85264a{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+2021-09-13 15:58:43.030  INFO 11556 --- [restartedMain] o.s.b.web.embedded.jetty.JettyWebServer  : Jetty started on port(s) 8080 (http/1.1) with context path '/studentapi'
+2021-09-13 15:58:43.150  INFO 11556 --- [restartedMain] c.m.s.StudentrestapiApplication          : Started StudentrestapiApplication in 4.865 seconds (JVM running for 511.749)
+2021-09-13 15:58:43.153  INFO 11556 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2021-09-13 16:02:56.707  INFO 11556 --- [qtp1011980254-447] o.springdoc.api.AbstractOpenApiResource  : Init duration for springdoc-openapi is: 61 ms
+2021-09-13 16:03:48.300  INFO 11556 --- [Thread-20] o.e.jetty.server.AbstractConnector       : Stopped ServerConnector@5c85264a{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+2021-09-13 16:03:48.301  INFO 11556 --- [Thread-20] org.eclipse.jetty.server.session         : node0 Stopped scavenging
+2021-09-13 16:03:48.302  INFO 11556 --- [Thread-20] o.e.j.s.h.ContextHandler.application     : Destroying Spring FrameworkServlet 'dispatcherServlet'
+2021-09-13 16:03:48.302  INFO 11556 --- [Thread-20] o.e.jetty.server.handler.ContextHandler  : Stopped o.s.b.w.e.j.JettyEmbeddedWebAppContext@47796ce4{application,/studentapi,[file:///C:/Users/m65/AppData/Local/Temp/jetty-docbase.8080.4133140275413121847/, jar:file:/C:/Users/m65/.m2/repository/org/webjars/swagger-ui/3.51.1/swagger-ui-3.51.1.jar!/META-INF/resources],STOPPED}
+2021-09-13 16:03:48.306  INFO 11556 --- [Thread-20] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-09-13 16:03:48.324  INFO 11556 --- [Thread-20] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Shutdown initiated...
+2021-09-13 16:03:48.344  INFO 11556 --- [Thread-20] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Shutdown completed.
+2021-09-13 16:03:48.448  INFO 11556 --- [restartedMain] c.m.s.StudentrestapiApplication          : Starting StudentrestapiApplication using Java 11.0.11 on LHTU05CD9305NSZ with PID 11556 (C:\springPractice\studentrestapi\target\classes started by m65 in C:\springPractice\studentrestapi)
+2021-09-13 16:03:48.449  INFO 11556 --- [restartedMain] c.m.s.StudentrestapiApplication          : No active profile set, falling back to default profiles: default
+2021-09-13 16:04:00.428  INFO 4160 --- [restartedMain] c.m.s.StudentrestapiApplication          : Starting StudentrestapiApplication using Java 11.0.11 on LHTU05CD9305NSZ with PID 4160 (C:\springPractice\studentrestapi\target\classes started by m65 in C:\springPractice\studentrestapi)
+2021-09-13 16:04:00.430  INFO 4160 --- [restartedMain] c.m.s.StudentrestapiApplication          : No active profile set, falling back to default profiles: default
+2021-09-13 16:04:00.462  INFO 4160 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-09-13 16:04:00.463  INFO 4160 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-09-13 16:04:01.550  INFO 4160 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-09-13 16:04:01.593  INFO 4160 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 36 ms. Found 1 JPA repository interfaces.
+2021-09-13 16:04:01.918  INFO 4160 --- [restartedMain] org.eclipse.jetty.util.log               : Logging initialized @2764ms to org.eclipse.jetty.util.log.Slf4jLog
+2021-09-13 16:04:02.136  INFO 4160 --- [restartedMain] o.s.b.w.e.j.JettyServletWebServerFactory : Server initialized with port: 8080
+2021-09-13 16:04:02.138  INFO 4160 --- [restartedMain] org.eclipse.jetty.server.Server          : jetty-9.4.43.v20210629; built: 2021-06-30T11:07:22.254Z; git: 526006ecfa3af7f1a27ef3a288e2bef7ea9dd7e8; jvm 11.0.11+9
+2021-09-13 16:04:02.157  INFO 4160 --- [restartedMain] o.e.j.s.h.ContextHandler.application     : Initializing Spring embedded WebApplicationContext
+2021-09-13 16:04:02.157  INFO 4160 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1694 ms
+2021-09-13 16:04:02.238  INFO 4160 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2021-09-13 16:04:02.431  INFO 4160 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2021-09-13 16:04:02.435  INFO 4160 --- [restartedMain] o.s.b.a.h2.H2ConsoleAutoConfiguration    : H2 console available at '/h2-console'. Database available at 'jdbc:mysql://localhost:3306/myStudentDb'
+2021-09-13 16:04:02.505  INFO 4160 --- [restartedMain] org.eclipse.jetty.server.session         : DefaultSessionIdManager workerName=node0
+2021-09-13 16:04:02.505  INFO 4160 --- [restartedMain] org.eclipse.jetty.server.session         : No SessionScavenger set, using defaults
+2021-09-13 16:04:02.506  INFO 4160 --- [restartedMain] org.eclipse.jetty.server.session         : node0 Scavenging every 660000ms
+2021-09-13 16:04:02.514  INFO 4160 --- [restartedMain] o.e.jetty.server.handler.ContextHandler  : Started o.s.b.w.e.j.JettyEmbeddedWebAppContext@105601e1{application,/studentapi,[file:///C:/Users/m65/AppData/Local/Temp/jetty-docbase.8080.15174433402459476701/, jar:file:/C:/Users/m65/.m2/repository/org/webjars/swagger-ui/3.51.1/swagger-ui-3.51.1.jar!/META-INF/resources],AVAILABLE}
+2021-09-13 16:04:02.514  INFO 4160 --- [restartedMain] org.eclipse.jetty.server.Server          : Started @3360ms
+2021-09-13 16:04:02.568  WARN 4160 --- [restartedMain] c.h.i.impl.HazelcastInstanceFactory      : Hazelcast is starting in a Java modular environment (Java 9 and newer) but without proper access to required Java packages. Use additional Java arguments to provide Hazelcast access to Java internal API. The internal API access is used to get the best performance results. Arguments to be used:
+ --add-modules java.se --add-exports java.base/jdk.internal.ref=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/java.nio=ALL-UNNAMED --add-opens java.base/sun.nio.ch=ALL-UNNAMED --add-opens java.management/sun.management=ALL-UNNAMED --add-opens jdk.management/com.sun.management.internal=ALL-UNNAMED
+2021-09-13 16:04:02.880  INFO 4160 --- [restartedMain] com.hazelcast.system                     : [192.168.0.113]:5701 [dev] [4.1.5] Hazelcast 4.1.5 (20210817 - 270c5be) starting at [192.168.0.113]:5701
+2021-09-13 16:04:03.116  INFO 4160 --- [restartedMain] c.h.s.d.integration.DiscoveryService     : [192.168.0.113]:5701 [dev] [4.1.5] No discovery strategy is applicable for auto-detection
+2021-09-13 16:04:03.632  INFO 4160 --- [restartedMain] com.hazelcast.instance.impl.Node         : [192.168.0.113]:5701 [dev] [4.1.5] Using Multicast discovery
+2021-09-13 16:04:03.634  WARN 4160 --- [restartedMain] com.hazelcast.cp.CPSubsystem             : [192.168.0.113]:5701 [dev] [4.1.5] CP Subsystem is not enabled. CP data structures will operate in UNSAFE mode! Please note that UNSAFE mode will not provide strong consistency guarantees.
+2021-09-13 16:04:03.772  INFO 4160 --- [restartedMain] c.h.internal.diagnostics.Diagnostics     : [192.168.0.113]:5701 [dev] [4.1.5] Diagnostics disabled. To enable add -Dhazelcast.diagnostics.enabled=true to the JVM arguments.
+2021-09-13 16:04:03.779  INFO 4160 --- [restartedMain] com.hazelcast.core.LifecycleService      : [192.168.0.113]:5701 [dev] [4.1.5] [192.168.0.113]:5701 is STARTING
+2021-09-13 16:04:06.211  INFO 4160 --- [restartedMain] c.h.internal.cluster.ClusterService      : [192.168.0.113]:5701 [dev] [4.1.5] 
+
+Members {size:1, ver:1} [
+	Member [192.168.0.113]:5701 - f71b5973-4aa4-49cd-be7d-92bb43a86507 this
+]
+
+2021-09-13 16:04:06.220  INFO 4160 --- [restartedMain] com.hazelcast.core.LifecycleService      : [192.168.0.113]:5701 [dev] [4.1.5] [192.168.0.113]:5701 is STARTED
+2021-09-13 16:04:06.369  INFO 4160 --- [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-09-13 16:04:06.452  INFO 4160 --- [restartedMain] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.4.32.Final
+2021-09-13 16:04:06.560  INFO 4160 --- [restartedMain] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-09-13 16:04:06.643  INFO 4160 --- [restartedMain] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2021-09-13 16:04:07.018  INFO 4160 --- [restartedMain] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-09-13 16:04:07.026  INFO 4160 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-09-13 16:04:07.504  WARN 4160 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-09-13 16:04:07.711  INFO 4160 --- [restartedMain] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 14 endpoint(s) beneath base path '/actuator'
+2021-09-13 16:04:07.830  INFO 4160 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-09-13 16:04:08.374  INFO 4160 --- [restartedMain] o.e.j.s.h.ContextHandler.application     : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-09-13 16:04:08.375  INFO 4160 --- [restartedMain] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-09-13 16:04:08.376  INFO 4160 --- [restartedMain] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2021-09-13 16:04:08.388  INFO 4160 --- [restartedMain] o.e.jetty.server.AbstractConnector       : Started ServerConnector@51461a2d{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+2021-09-13 16:04:08.388  INFO 4160 --- [restartedMain] o.s.b.web.embedded.jetty.JettyWebServer  : Jetty started on port(s) 8080 (http/1.1) with context path '/studentapi'
+2021-09-13 16:04:08.438  INFO 4160 --- [restartedMain] c.m.s.StudentrestapiApplication          : Started StudentrestapiApplication in 8.304 seconds (JVM running for 9.284)
+2021-09-13 16:24:22.668  WARN 4160 --- [qtp531893361-31] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' not supported]
+2021-09-13 16:25:57.384  INFO 4160 --- [Thread-13] o.e.jetty.server.AbstractConnector       : Stopped ServerConnector@51461a2d{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+2021-09-13 16:25:57.384  INFO 4160 --- [Thread-13] org.eclipse.jetty.server.session         : node0 Stopped scavenging
+2021-09-13 16:25:57.387  INFO 4160 --- [Thread-13] o.e.j.s.h.ContextHandler.application     : Destroying Spring FrameworkServlet 'dispatcherServlet'
+2021-09-13 16:25:57.387  INFO 4160 --- [Thread-13] o.e.jetty.server.handler.ContextHandler  : Stopped o.s.b.w.e.j.JettyEmbeddedWebAppContext@105601e1{application,/studentapi,[file:///C:/Users/m65/AppData/Local/Temp/jetty-docbase.8080.15174433402459476701/, jar:file:/C:/Users/m65/.m2/repository/org/webjars/swagger-ui/3.51.1/swagger-ui-3.51.1.jar!/META-INF/resources],STOPPED}
+2021-09-13 16:25:57.397  INFO 4160 --- [Thread-13] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-09-13 16:25:57.453  INFO 4160 --- [Thread-13] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2021-09-13 16:25:57.487  INFO 4160 --- [Thread-13] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2021-09-13 16:25:57.644  INFO 4160 --- [restartedMain] c.m.s.StudentrestapiApplication          : Starting StudentrestapiApplication using Java 11.0.11 on LHTU05CD9305NSZ with PID 4160 (C:\springPractice\studentrestapi\target\classes started by m65 in C:\springPractice\studentrestapi)
+2021-09-13 16:25:57.645  INFO 4160 --- [restartedMain] c.m.s.StudentrestapiApplication          : No active profile set, falling back to default profiles: default
+2021-09-13 16:25:58.315  INFO 4160 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-09-13 16:25:58.327  INFO 4160 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 11 ms. Found 1 JPA repository interfaces.
+2021-09-13 16:25:58.527  INFO 4160 --- [restartedMain] o.s.b.w.e.j.JettyServletWebServerFactory : Server initialized with port: 8080
+2021-09-13 16:25:58.528  INFO 4160 --- [restartedMain] org.eclipse.jetty.server.Server          : jetty-9.4.43.v20210629; built: 2021-06-30T11:07:22.254Z; git: 526006ecfa3af7f1a27ef3a288e2bef7ea9dd7e8; jvm 11.0.11+9
+2021-09-13 16:25:58.531  INFO 4160 --- [restartedMain] o.e.j.s.h.ContextHandler.application     : Initializing Spring embedded WebApplicationContext
+2021-09-13 16:25:58.531  INFO 4160 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 882 ms
+2021-09-13 16:25:58.567  INFO 4160 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Starting...
+2021-09-13 16:25:58.596  INFO 4160 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Start completed.
+2021-09-13 16:25:58.596  INFO 4160 --- [restartedMain] o.s.b.a.h2.H2ConsoleAutoConfiguration    : H2 console available at '/h2-console'. Database available at 'jdbc:mysql://localhost:3306/myStudentDb'
+2021-09-13 16:25:58.627  INFO 4160 --- [restartedMain] org.eclipse.jetty.server.session         : DefaultSessionIdManager workerName=node0
+2021-09-13 16:25:58.627  INFO 4160 --- [restartedMain] org.eclipse.jetty.server.session         : No SessionScavenger set, using defaults
+2021-09-13 16:25:58.627  INFO 4160 --- [restartedMain] org.eclipse.jetty.server.session         : node0 Scavenging every 600000ms
+2021-09-13 16:25:58.629  INFO 4160 --- [restartedMain] o.e.jetty.server.handler.ContextHandler  : Started o.s.b.w.e.j.JettyEmbeddedWebAppContext@528ab3ff{application,/studentapi,[file:///C:/Users/m65/AppData/Local/Temp/jetty-docbase.8080.4299044463411748797/, jar:file:/C:/Users/m65/.m2/repository/org/webjars/swagger-ui/3.51.1/swagger-ui-3.51.1.jar!/META-INF/resources],AVAILABLE}
+2021-09-13 16:25:58.629  INFO 4160 --- [restartedMain] org.eclipse.jetty.server.Server          : Started @1319478ms
+2021-09-13 16:25:59.073  INFO 4160 --- [restartedMain] com.hazelcast.system                     : [192.168.0.113]:5701 [dev] [4.1.5] Hazelcast 4.1.5 (20210817 - 270c5be) starting at [192.168.0.113]:5701
+2021-09-13 16:25:59.086  INFO 4160 --- [restartedMain] c.h.s.d.integration.DiscoveryService     : [192.168.0.113]:5701 [dev] [4.1.5] No discovery strategy is applicable for auto-detection
+2021-09-13 16:25:59.745  INFO 4160 --- [restartedMain] com.hazelcast.instance.impl.Node         : [192.168.0.113]:5701 [dev] [4.1.5] Using Multicast discovery
+2021-09-13 16:25:59.746  WARN 4160 --- [restartedMain] com.hazelcast.cp.CPSubsystem             : [192.168.0.113]:5701 [dev] [4.1.5] CP Subsystem is not enabled. CP data structures will operate in UNSAFE mode! Please note that UNSAFE mode will not provide strong consistency guarantees.
+2021-09-13 16:25:59.761  INFO 4160 --- [restartedMain] c.h.internal.diagnostics.Diagnostics     : [192.168.0.113]:5701 [dev] [4.1.5] Diagnostics disabled. To enable add -Dhazelcast.diagnostics.enabled=true to the JVM arguments.
+2021-09-13 16:25:59.761  INFO 4160 --- [restartedMain] com.hazelcast.core.LifecycleService      : [192.168.0.113]:5701 [dev] [4.1.5] [192.168.0.113]:5701 is STARTING
+2021-09-13 16:26:02.274  INFO 4160 --- [restartedMain] c.h.internal.cluster.ClusterService      : [192.168.0.113]:5701 [dev] [4.1.5] 
+
+Members {size:1, ver:1} [
+	Member [192.168.0.113]:5701 - aa341663-fff6-405b-9688-6b682ab9be7c this
+]
+
+2021-09-13 16:26:02.275  INFO 4160 --- [restartedMain] com.hazelcast.core.LifecycleService      : [192.168.0.113]:5701 [dev] [4.1.5] [192.168.0.113]:5701 is STARTED
+2021-09-13 16:26:02.296  INFO 4160 --- [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-09-13 16:26:02.301  INFO 4160 --- [restartedMain] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2021-09-13 16:26:02.318  INFO 4160 --- [restartedMain] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-09-13 16:26:02.318  INFO 4160 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-09-13 16:26:02.467  WARN 4160 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-09-13 16:26:02.557  INFO 4160 --- [restartedMain] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 14 endpoint(s) beneath base path '/actuator'
+2021-09-13 16:26:02.606  INFO 4160 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-09-13 16:26:02.984  INFO 4160 --- [restartedMain] o.e.j.s.h.ContextHandler.application     : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-09-13 16:26:02.985  INFO 4160 --- [restartedMain] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-09-13 16:26:02.986  INFO 4160 --- [restartedMain] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2021-09-13 16:26:02.996  INFO 4160 --- [restartedMain] o.e.jetty.server.AbstractConnector       : Started ServerConnector@7c153166{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+2021-09-13 16:26:03.000  INFO 4160 --- [restartedMain] o.s.b.web.embedded.jetty.JettyWebServer  : Jetty started on port(s) 8080 (http/1.1) with context path '/studentapi'
+2021-09-13 16:26:03.021  INFO 4160 --- [restartedMain] c.m.s.StudentrestapiApplication          : Started StudentrestapiApplication in 5.419 seconds (JVM running for 1323.871)
+2021-09-13 16:26:03.024  INFO 4160 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2021-09-13 16:26:33.005  INFO 4160 --- [Thread-20] o.e.jetty.server.AbstractConnector       : Stopped ServerConnector@7c153166{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+2021-09-13 16:26:33.007  INFO 4160 --- [Thread-20] org.eclipse.jetty.server.session         : node0 Stopped scavenging
+2021-09-13 16:26:33.009  INFO 4160 --- [Thread-20] o.e.j.s.h.ContextHandler.application     : Destroying Spring FrameworkServlet 'dispatcherServlet'
+2021-09-13 16:26:33.009  INFO 4160 --- [Thread-20] o.e.jetty.server.handler.ContextHandler  : Stopped o.s.b.w.e.j.JettyEmbeddedWebAppContext@528ab3ff{application,/studentapi,[file:///C:/Users/m65/AppData/Local/Temp/jetty-docbase.8080.4299044463411748797/, jar:file:/C:/Users/m65/.m2/repository/org/webjars/swagger-ui/3.51.1/swagger-ui-3.51.1.jar!/META-INF/resources],STOPPED}
+2021-09-13 16:26:33.016  INFO 4160 --- [Thread-20] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-09-13 16:26:33.033  INFO 4160 --- [Thread-20] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Shutdown initiated...
+2021-09-13 16:26:33.061  INFO 4160 --- [Thread-20] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Shutdown completed.
+2021-09-13 16:26:33.205  INFO 4160 --- [restartedMain] c.m.s.StudentrestapiApplication          : Starting StudentrestapiApplication using Java 11.0.11 on LHTU05CD9305NSZ with PID 4160 (C:\springPractice\studentrestapi\target\classes started by m65 in C:\springPractice\studentrestapi)
+2021-09-13 16:26:33.205  INFO 4160 --- [restartedMain] c.m.s.StudentrestapiApplication          : No active profile set, falling back to default profiles: default
+2021-09-13 16:26:33.751  INFO 4160 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-09-13 16:26:33.762  INFO 4160 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 10 ms. Found 1 JPA repository interfaces.
+2021-09-13 16:26:33.925  INFO 4160 --- [restartedMain] o.s.b.w.e.j.JettyServletWebServerFactory : Server initialized with port: 8080
+2021-09-13 16:26:33.925  INFO 4160 --- [restartedMain] org.eclipse.jetty.server.Server          : jetty-9.4.43.v20210629; built: 2021-06-30T11:07:22.254Z; git: 526006ecfa3af7f1a27ef3a288e2bef7ea9dd7e8; jvm 11.0.11+9
+2021-09-13 16:26:33.927  INFO 4160 --- [restartedMain] o.e.j.s.h.ContextHandler.application     : Initializing Spring embedded WebApplicationContext
+2021-09-13 16:26:33.928  INFO 4160 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 720 ms
+2021-09-13 16:26:33.957  INFO 4160 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-3 - Starting...
+2021-09-13 16:26:33.979  INFO 4160 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-3 - Start completed.
+2021-09-13 16:26:33.979  INFO 4160 --- [restartedMain] o.s.b.a.h2.H2ConsoleAutoConfiguration    : H2 console available at '/h2-console'. Database available at 'jdbc:mysql://localhost:3306/myStudentDb'
+2021-09-13 16:26:34.000  INFO 4160 --- [restartedMain] org.eclipse.jetty.server.session         : DefaultSessionIdManager workerName=node0
+2021-09-13 16:26:34.000  INFO 4160 --- [restartedMain] org.eclipse.jetty.server.session         : No SessionScavenger set, using defaults
+2021-09-13 16:26:34.000  INFO 4160 --- [restartedMain] org.eclipse.jetty.server.session         : node0 Scavenging every 660000ms
+2021-09-13 16:26:34.002  INFO 4160 --- [restartedMain] o.e.jetty.server.handler.ContextHandler  : Started o.s.b.w.e.j.JettyEmbeddedWebAppContext@d100679{application,/studentapi,[file:///C:/Users/m65/AppData/Local/Temp/jetty-docbase.8080.17835042784299882492/, jar:file:/C:/Users/m65/.m2/repository/org/webjars/swagger-ui/3.51.1/swagger-ui-3.51.1.jar!/META-INF/resources],AVAILABLE}
+2021-09-13 16:26:34.002  INFO 4160 --- [restartedMain] org.eclipse.jetty.server.Server          : Started @1354851ms
+2021-09-13 16:26:34.387  INFO 4160 --- [restartedMain] com.hazelcast.system                     : [192.168.0.113]:5701 [dev] [4.1.5] Hazelcast 4.1.5 (20210817 - 270c5be) starting at [192.168.0.113]:5701
+2021-09-13 16:26:34.398  INFO 4160 --- [restartedMain] c.h.s.d.integration.DiscoveryService     : [192.168.0.113]:5701 [dev] [4.1.5] No discovery strategy is applicable for auto-detection
+2021-09-13 16:26:35.049  INFO 4160 --- [restartedMain] com.hazelcast.instance.impl.Node         : [192.168.0.113]:5701 [dev] [4.1.5] Using Multicast discovery
+2021-09-13 16:26:35.049  WARN 4160 --- [restartedMain] com.hazelcast.cp.CPSubsystem             : [192.168.0.113]:5701 [dev] [4.1.5] CP Subsystem is not enabled. CP data structures will operate in UNSAFE mode! Please note that UNSAFE mode will not provide strong consistency guarantees.
+2021-09-13 16:26:35.061  INFO 4160 --- [restartedMain] c.h.internal.diagnostics.Diagnostics     : [192.168.0.113]:5701 [dev] [4.1.5] Diagnostics disabled. To enable add -Dhazelcast.diagnostics.enabled=true to the JVM arguments.
+2021-09-13 16:26:35.061  INFO 4160 --- [restartedMain] com.hazelcast.core.LifecycleService      : [192.168.0.113]:5701 [dev] [4.1.5] [192.168.0.113]:5701 is STARTING
+2021-09-13 16:26:37.306  INFO 4160 --- [restartedMain] c.h.internal.cluster.ClusterService      : [192.168.0.113]:5701 [dev] [4.1.5] 
+
+Members {size:1, ver:1} [
+	Member [192.168.0.113]:5701 - f00784d1-0058-4850-91ef-ac5665d6d387 this
+]
+
+2021-09-13 16:26:37.307  INFO 4160 --- [restartedMain] com.hazelcast.core.LifecycleService      : [192.168.0.113]:5701 [dev] [4.1.5] [192.168.0.113]:5701 is STARTED
+2021-09-13 16:26:37.332  INFO 4160 --- [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-09-13 16:26:37.339  INFO 4160 --- [restartedMain] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2021-09-13 16:26:37.366  INFO 4160 --- [restartedMain] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-09-13 16:26:37.367  INFO 4160 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-09-13 16:26:37.596  WARN 4160 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-09-13 16:26:37.713  INFO 4160 --- [restartedMain] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 14 endpoint(s) beneath base path '/actuator'
+2021-09-13 16:26:37.772  INFO 4160 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-09-13 16:26:38.139  INFO 4160 --- [restartedMain] o.e.j.s.h.ContextHandler.application     : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-09-13 16:26:38.139  INFO 4160 --- [restartedMain] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-09-13 16:26:38.141  INFO 4160 --- [restartedMain] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2021-09-13 16:26:38.151  INFO 4160 --- [restartedMain] o.e.jetty.server.AbstractConnector       : Started ServerConnector@778be8b0{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+2021-09-13 16:26:38.151  INFO 4160 --- [restartedMain] o.s.b.web.embedded.jetty.JettyWebServer  : Jetty started on port(s) 8080 (http/1.1) with context path '/studentapi'
+2021-09-13 16:26:38.178  INFO 4160 --- [restartedMain] c.m.s.StudentrestapiApplication          : Started StudentrestapiApplication in 5.001 seconds (JVM running for 1359.027)
+2021-09-13 16:26:38.181  INFO 4160 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2021-09-13 16:27:04.759  INFO 4160 --- [Thread-33] o.e.jetty.server.AbstractConnector       : Stopped ServerConnector@778be8b0{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+2021-09-13 16:27:04.761  INFO 4160 --- [Thread-33] org.eclipse.jetty.server.session         : node0 Stopped scavenging
+2021-09-13 16:27:04.762  INFO 4160 --- [Thread-33] o.e.j.s.h.ContextHandler.application     : Destroying Spring FrameworkServlet 'dispatcherServlet'
+2021-09-13 16:27:04.763  INFO 4160 --- [Thread-33] o.e.jetty.server.handler.ContextHandler  : Stopped o.s.b.w.e.j.JettyEmbeddedWebAppContext@d100679{application,/studentapi,[file:///C:/Users/m65/AppData/Local/Temp/jetty-docbase.8080.17835042784299882492/, jar:file:/C:/Users/m65/.m2/repository/org/webjars/swagger-ui/3.51.1/swagger-ui-3.51.1.jar!/META-INF/resources],STOPPED}
+2021-09-13 16:27:04.768  INFO 4160 --- [Thread-33] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-09-13 16:27:04.781  INFO 4160 --- [Thread-33] com.zaxxer.hikari.HikariDataSource       : HikariPool-3 - Shutdown initiated...
+2021-09-13 16:27:04.808  INFO 4160 --- [Thread-33] com.zaxxer.hikari.HikariDataSource       : HikariPool-3 - Shutdown completed.
+2021-09-13 16:27:04.960  INFO 4160 --- [restartedMain] c.m.s.StudentrestapiApplication          : Starting StudentrestapiApplication using Java 11.0.11 on LHTU05CD9305NSZ with PID 4160 (C:\springPractice\studentrestapi\target\classes started by m65 in C:\springPractice\studentrestapi)
+2021-09-13 16:27:04.960  INFO 4160 --- [restartedMain] c.m.s.StudentrestapiApplication          : No active profile set, falling back to default profiles: default
+2021-09-13 16:27:21.184  INFO 7588 --- [restartedMain] c.m.s.StudentrestapiApplication          : Starting StudentrestapiApplication using Java 11.0.11 on LHTU05CD9305NSZ with PID 7588 (C:\springPractice\studentrestapi\target\classes started by m65 in C:\springPractice\studentrestapi)
+2021-09-13 16:27:21.189  INFO 7588 --- [restartedMain] c.m.s.StudentrestapiApplication          : No active profile set, falling back to default profiles: default
+2021-09-13 16:27:21.254  INFO 7588 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-09-13 16:27:21.255  INFO 7588 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-09-13 16:27:22.740  INFO 7588 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-09-13 16:27:22.805  INFO 7588 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 55 ms. Found 1 JPA repository interfaces.
+2021-09-13 16:27:23.336  INFO 7588 --- [restartedMain] org.eclipse.jetty.util.log               : Logging initialized @3791ms to org.eclipse.jetty.util.log.Slf4jLog
+2021-09-13 16:27:23.560  INFO 7588 --- [restartedMain] o.s.b.w.e.j.JettyServletWebServerFactory : Server initialized with port: 8080
+2021-09-13 16:27:23.563  INFO 7588 --- [restartedMain] org.eclipse.jetty.server.Server          : jetty-9.4.43.v20210629; built: 2021-06-30T11:07:22.254Z; git: 526006ecfa3af7f1a27ef3a288e2bef7ea9dd7e8; jvm 11.0.11+9
+2021-09-13 16:27:23.588  INFO 7588 --- [restartedMain] o.e.j.s.h.ContextHandler.application     : Initializing Spring embedded WebApplicationContext
+2021-09-13 16:27:23.588  INFO 7588 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2332 ms
+2021-09-13 16:27:23.699  INFO 7588 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2021-09-13 16:27:23.966  INFO 7588 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2021-09-13 16:27:23.972  INFO 7588 --- [restartedMain] o.s.b.a.h2.H2ConsoleAutoConfiguration    : H2 console available at '/h2-console'. Database available at 'jdbc:mysql://localhost:3306/myStudentDb'
+2021-09-13 16:27:24.085  INFO 7588 --- [restartedMain] org.eclipse.jetty.server.session         : DefaultSessionIdManager workerName=node0
+2021-09-13 16:27:24.085  INFO 7588 --- [restartedMain] org.eclipse.jetty.server.session         : No SessionScavenger set, using defaults
+2021-09-13 16:27:24.087  INFO 7588 --- [restartedMain] org.eclipse.jetty.server.session         : node0 Scavenging every 660000ms
+2021-09-13 16:27:24.104  INFO 7588 --- [restartedMain] o.e.jetty.server.handler.ContextHandler  : Started o.s.b.w.e.j.JettyEmbeddedWebAppContext@35c24398{application,/studentapi,[file:///C:/Users/m65/AppData/Local/Temp/jetty-docbase.8080.5784028057356258754/, jar:file:/C:/Users/m65/.m2/repository/org/webjars/swagger-ui/3.51.1/swagger-ui-3.51.1.jar!/META-INF/resources],AVAILABLE}
+2021-09-13 16:27:24.104  INFO 7588 --- [restartedMain] org.eclipse.jetty.server.Server          : Started @4560ms
+2021-09-13 16:27:24.173  WARN 7588 --- [restartedMain] c.h.i.impl.HazelcastInstanceFactory      : Hazelcast is starting in a Java modular environment (Java 9 and newer) but without proper access to required Java packages. Use additional Java arguments to provide Hazelcast access to Java internal API. The internal API access is used to get the best performance results. Arguments to be used:
+ --add-modules java.se --add-exports java.base/jdk.internal.ref=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/java.nio=ALL-UNNAMED --add-opens java.base/sun.nio.ch=ALL-UNNAMED --add-opens java.management/sun.management=ALL-UNNAMED --add-opens jdk.management/com.sun.management.internal=ALL-UNNAMED
+2021-09-13 16:27:24.668  INFO 7588 --- [restartedMain] com.hazelcast.system                     : [192.168.0.113]:5701 [dev] [4.1.5] Hazelcast 4.1.5 (20210817 - 270c5be) starting at [192.168.0.113]:5701
+2021-09-13 16:27:24.962  INFO 7588 --- [restartedMain] c.h.s.d.integration.DiscoveryService     : [192.168.0.113]:5701 [dev] [4.1.5] No discovery strategy is applicable for auto-detection
+2021-09-13 16:27:25.684  INFO 7588 --- [restartedMain] com.hazelcast.instance.impl.Node         : [192.168.0.113]:5701 [dev] [4.1.5] Using Multicast discovery
+2021-09-13 16:27:25.687  WARN 7588 --- [restartedMain] com.hazelcast.cp.CPSubsystem             : [192.168.0.113]:5701 [dev] [4.1.5] CP Subsystem is not enabled. CP data structures will operate in UNSAFE mode! Please note that UNSAFE mode will not provide strong consistency guarantees.
+2021-09-13 16:27:25.855  INFO 7588 --- [restartedMain] c.h.internal.diagnostics.Diagnostics     : [192.168.0.113]:5701 [dev] [4.1.5] Diagnostics disabled. To enable add -Dhazelcast.diagnostics.enabled=true to the JVM arguments.
+2021-09-13 16:27:25.867  INFO 7588 --- [restartedMain] com.hazelcast.core.LifecycleService      : [192.168.0.113]:5701 [dev] [4.1.5] [192.168.0.113]:5701 is STARTING
+2021-09-13 16:27:28.172  INFO 7588 --- [restartedMain] c.h.internal.cluster.ClusterService      : [192.168.0.113]:5701 [dev] [4.1.5] 
+
+Members {size:1, ver:1} [
+	Member [192.168.0.113]:5701 - 72b72e7e-5da2-48da-a0b2-963fe6b940d6 this
+]
+
+2021-09-13 16:27:28.184  INFO 7588 --- [restartedMain] com.hazelcast.core.LifecycleService      : [192.168.0.113]:5701 [dev] [4.1.5] [192.168.0.113]:5701 is STARTED
+2021-09-13 16:27:28.291  INFO 7588 --- [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-09-13 16:27:28.335  INFO 7588 --- [restartedMain] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.4.32.Final
+2021-09-13 16:27:28.466  INFO 7588 --- [restartedMain] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-09-13 16:27:28.606  INFO 7588 --- [restartedMain] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2021-09-13 16:27:29.139  INFO 7588 --- [restartedMain] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-09-13 16:27:29.148  INFO 7588 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-09-13 16:27:29.693  WARN 7588 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-09-13 16:27:29.952  INFO 7588 --- [restartedMain] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 14 endpoint(s) beneath base path '/actuator'
+2021-09-13 16:27:30.139  INFO 7588 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-09-13 16:27:30.886  INFO 7588 --- [restartedMain] o.e.j.s.h.ContextHandler.application     : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-09-13 16:27:30.887  INFO 7588 --- [restartedMain] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-09-13 16:27:30.889  INFO 7588 --- [restartedMain] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2021-09-13 16:27:30.911  INFO 7588 --- [restartedMain] o.e.jetty.server.AbstractConnector       : Started ServerConnector@3ff72b07{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+2021-09-13 16:27:30.913  INFO 7588 --- [restartedMain] o.s.b.web.embedded.jetty.JettyWebServer  : Jetty started on port(s) 8080 (http/1.1) with context path '/studentapi'
+2021-09-13 16:27:30.993  INFO 7588 --- [restartedMain] c.m.s.StudentrestapiApplication          : Started StudentrestapiApplication in 10.173 seconds (JVM running for 11.448)
+2021-09-13 16:27:47.093  WARN 7588 --- [qtp2091988801-223] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.bind.MethodArgumentNotValidException: Validation failed for argument [0] in public com.malvika.studentapi.entities.Student com.malvika.studentapi.controllers.StudentController.updateStudentDetail(com.malvika.studentapi.entities.Student): [Field error in object 'student' on field 'name': rejected value [null]; codes [NotNull.student.name,NotNull.name,NotNull.java.lang.String,NotNull]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [student.name,name]; arguments []; default message [name]]; default message [must not be null]] ]
+2021-09-13 19:59:07.362  INFO 7588 --- [RMI TCP Connection(8)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2021-09-13 19:59:07.377  INFO 7588 --- [RMI TCP Connection(8)-127.0.0.1] o.e.jetty.server.AbstractConnector       : Stopped ServerConnector@3ff72b07{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+2021-09-13 19:59:07.378  INFO 7588 --- [RMI TCP Connection(8)-127.0.0.1] org.eclipse.jetty.server.session         : node0 Stopped scavenging
+2021-09-13 19:59:07.381  INFO 7588 --- [RMI TCP Connection(8)-127.0.0.1] o.e.j.s.h.ContextHandler.application     : Destroying Spring FrameworkServlet 'dispatcherServlet'
+2021-09-13 19:59:07.381  INFO 7588 --- [RMI TCP Connection(8)-127.0.0.1] o.e.jetty.server.handler.ContextHandler  : Stopped o.s.b.w.e.j.JettyEmbeddedWebAppContext@35c24398{application,/studentapi,[file:///C:/Users/m65/AppData/Local/Temp/jetty-docbase.8080.5784028057356258754/, jar:file:/C:/Users/m65/.m2/repository/org/webjars/swagger-ui/3.51.1/swagger-ui-3.51.1.jar!/META-INF/resources],STOPPED}
+2021-09-13 19:59:07.389  INFO 7588 --- [RMI TCP Connection(8)-127.0.0.1] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-09-13 19:59:07.420  INFO 7588 --- [RMI TCP Connection(8)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2021-09-13 19:59:07.454  INFO 7588 --- [RMI TCP Connection(8)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.

@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Student Details</title>
+</head>
+<body>
+<h1>Student Info</h1>
+<form th:action="@{/studentFormSubmittion }" th:objects="${student}" method="post">
+Name : <input type ="text" th:field="*{student.name}"/>
+Roll : <input type ="text" th:field="*{student.roll}"/>
+<input type ="submit" value="save"/>
+<input type ="reset" value="reset"/>
+</form>
+</body>
+</html>
